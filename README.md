@@ -16,7 +16,7 @@
 ![python](https://img.icons8.com/color/48/000000/python.png)
 ![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png)
-![c](https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)
+![c](https://img.icons8.com/ios-filled/50/000000/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)
 
 
 
