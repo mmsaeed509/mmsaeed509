@@ -22,8 +22,8 @@
 
 ## Favorite National Team :
 
-![German-Football-Association-logo-300x240](https://user-images.githubusercontent.com/62524855/128868518-d7bddf0c-cfd7-4e47-8a87-9e222ce4ce1f.png)
-![germany-national-football-team](https://user-images.githubusercontent.com/62524855/128868531-3ebd18de-b10f-4d58-8c1d-82cec6e82776.png)
+![German_football_association_logo-700x700](https://user-images.githubusercontent.com/62524855/128869037-ddc57b97-50bd-4a54-ab91-ce2f614b4f21.png)
+![Germany_national_football_team_logo_Deutscher_Fussball-Bund-593x700](https://user-images.githubusercontent.com/62524855/128869039-76ce56ea-0979-4501-98ea-a894c5225b97.png)
 
 
 ## Favorite Team :
