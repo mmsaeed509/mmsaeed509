@@ -19,6 +19,8 @@
 ![c](https://img.icons8.com/color/48/000000/c-programming.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
+![vm-ware](https://img.icons8.com/color/50/000000/old-vmware-logo.png)
+1[virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)
 
 ## Favorite National Team :
                                                  Germany
@@ -47,32 +49,7 @@
 
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](mmsaeed509@gmail.com)
 
 
 
