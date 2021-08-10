@@ -21,12 +21,16 @@
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
 
 ## Favorite National Team :
-
+                                       __Germany__
 ![Germany_national_football_team_logo_Deutscher_Fussball-Bund-593x700](https://user-images.githubusercontent.com/62524855/128869118-709a696f-756c-435c-9b5b-70a2069ef186.png)
 
 
 
 ## Favorite Team :
+
+
+![1024px-FC_Bayern_München_logo_(2017) svg](https://user-images.githubusercontent.com/62524855/128869821-19d89dc1-201b-413f-9360-78d7044576fd.png)
+
 
 
 <!--
