@@ -15,7 +15,7 @@
 ## Skills:
 ![python](https://img.icons8.com/color/48/000000/python.png)
 ![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![java](https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png)
+![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![c](https://img.icons8.com/color/48/000000/c-programming.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
