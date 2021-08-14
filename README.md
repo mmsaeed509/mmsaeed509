@@ -12,6 +12,15 @@
 
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 
+
+## Games & Hobbies :
+![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
+![valorant](https://img.icons8.com/color/48/000000/valorant.png)
+![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
+
+
+
+
 ## Skills:
 ![python](https://img.icons8.com/color/48/000000/python.png)
 ![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
