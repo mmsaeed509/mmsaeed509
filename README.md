@@ -20,6 +20,7 @@
 ![pes](https://img.icons8.com/officel/16/000000/football2--v1.png)
 ![gta](https://img.icons8.com/ios-filled/50/000000/rockstar-games.png)
 ![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
+![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
 
 ![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
 ![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
