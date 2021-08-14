@@ -15,6 +15,7 @@
 
 ## Games & Hobbies :
 Games :
+
 ![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
 ![valorant](https://img.icons8.com/color/48/000000/valorant.png)
 ![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
@@ -24,6 +25,7 @@ Games :
 ![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
 
 Hobbies : 
+
 ![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
 ![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
 ![sport](https://img.icons8.com/color/48/000000/running--v1.png)
