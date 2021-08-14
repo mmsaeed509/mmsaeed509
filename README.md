@@ -22,6 +22,7 @@
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
 ![vm-ware](https://img.icons8.com/color/50/000000/old-vmware-logo.png)
 ![virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)
+![Networking Manager](https://img.icons8.com/nolan/64/networking-manager.png)
 
 
 
