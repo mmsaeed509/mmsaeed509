@@ -19,6 +19,7 @@
 ![c](https://img.icons8.com/color/48/000000/c-programming.png)
 ![shell_scripting](https://img.icons8.com/doodle/48/000000/console--v2.png)
 ![power_shell](https://img.icons8.com/ios-filled/50/000000/console.png)
+![ssh](https://img.icons8.com/ios-filled/50/000000/ssh.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
 
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
