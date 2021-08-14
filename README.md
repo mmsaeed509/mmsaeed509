@@ -40,7 +40,7 @@
 
 
 
-## Favorite National Team :                                         Favorite Team :
+## Favorite Team & National Team :                         
   Germany                                                            FC Bayern München
 
 
