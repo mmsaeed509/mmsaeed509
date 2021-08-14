@@ -25,6 +25,7 @@
 ![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
 ![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
 ![sport](https://img.icons8.com/color/48/000000/running--v1.png)
+![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
 
 
 
