@@ -54,7 +54,8 @@
 
                                               FC Bayern München 
 
-![1024px-FC_Bayern_München_logo_(2017) svg](https://user-images.githubusercontent.com/62524855/128869821-19d89dc1-201b-413f-9360-78d7044576fd.png)
+
+![1200px-FC_Bayern_München_logo_(2017) svg](https://user-images.githubusercontent.com/62524855/129447888-838c0a7e-ac5d-4747-bf38-04042a40ba6d.png)
 
 
 
