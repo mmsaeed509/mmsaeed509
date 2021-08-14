@@ -18,9 +18,11 @@
 ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![c](https://img.icons8.com/color/48/000000/c-programming.png)
 ![git](https://img.icons8.com/color/48/000000/git.png)
+
 ![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
 ![vm-ware](https://img.icons8.com/color/50/000000/old-vmware-logo.png)
 ![virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)
+
 
 
 ### contact with me on 🕸️: 
