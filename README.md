@@ -14,7 +14,8 @@
 
 
 ## Games & Hobbies :
-Games : ![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
+Games :
+![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
 ![valorant](https://img.icons8.com/color/48/000000/valorant.png)
 ![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
 ![pes](https://img.icons8.com/officel/16/000000/football2--v1.png)
@@ -22,7 +23,8 @@ Games : ![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader
 ![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
 ![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
 
-Hobbies : ![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
+Hobbies : 
+![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
 ![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
 ![sport](https://img.icons8.com/color/48/000000/running--v1.png)
 ![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
