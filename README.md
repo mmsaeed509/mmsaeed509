@@ -40,22 +40,12 @@
 
 
 
-## Favorite National Team :
-  Germany
+## Favorite National Team :                                         ## Favorite Team :
+  Germany                                                             FC Bayern München
 
 
 
-![DFBEagle svg](https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png)
-
-
-
-
-## Favorite Team :
-
-                                              FC Bayern München 
-
-
-![Bayern+munich+logo](https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png)
+![DFBEagle svg](https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png)             ![Bayern+munich+logo](https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png)
 
 
 
