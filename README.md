@@ -22,7 +22,7 @@
 ![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
 
 ![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
-![football](https://img.icons8.com/ios/60/000000/external-football-pitch-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png)
+![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
 ![sport](https://img.icons8.com/color/48/000000/running--v1.png)
 
 
