@@ -73,7 +73,7 @@ Hobbies :
 
 
 
-## Favorite Team & National Team :                         
+## Favorite National Team & Team :                         
   Germany 🇩🇪 & FC Bayern München ❤️❤️
 
 
