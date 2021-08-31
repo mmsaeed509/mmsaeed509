@@ -15,7 +15,7 @@
 
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 *  __My Certifications [Certifications](https://drive.google.com/drive/folders/1EDjJoe6nzg3QV04TdIzSubX-XshBhPh3?usp=sharing).__
-*  __My CV [Resume](https://drive.google.com/file/d/1sLO3z1XycyJU3bt3Lz_809ihL_NMWfTF/view?usp=sharing)
+*  My CV [Resume](https://drive.google.com/file/d/1sLO3z1XycyJU3bt3Lz_809ihL_NMWfTF/view?usp=sharing)
 
 
 
