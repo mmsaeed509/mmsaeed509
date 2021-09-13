@@ -15,7 +15,7 @@
 
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 *  __My Certifications [Certifications](https://drive.google.com/drive/folders/1EDjJoe6nzg3QV04TdIzSubX-XshBhPh3?usp=sharing).__
-*  My CV [Resume](https://github.com/mmsaeed509/mmsaeed509/files/7157004/Mahmoud_s.Resume_main.pdf)
+*  My CV [Resume](Certifications_cv/Mahmoud_s Resume_main.pdf)
 
 
 
