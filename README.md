@@ -22,7 +22,7 @@
 
 
 
-## My Favorite Youtube Channels : [](https://img.icons8.com/color/48/000000/youtube--v1.png)
+## My Favorite Youtube Channels : ![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)
 
 
 ## Games & Hobbies :
