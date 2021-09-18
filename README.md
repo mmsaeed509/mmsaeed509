@@ -24,6 +24,17 @@
 
 ## My Favorite Youtube Channels : ![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)
 
+[David Bombal](https://www.youtube.com/c/DavidBombal)
+
+[NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+
+[Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
+
+[اقتصاد الكوكب](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
+
+[المخبر الاقتصادي - Mokhbir Eqtisadi](https://www.youtube.com/c/MokhbirEqtisadi)
+
+[Ahmed El-Beheiry_أحمد بحيري](https://www.youtube.com/c/AhmedBehiry)
 
 ## Games & Hobbies :
 Games :
