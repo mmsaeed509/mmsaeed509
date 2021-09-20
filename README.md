@@ -15,7 +15,7 @@
 * ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥']
 
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
-*  __My Certifications [Certifications](Certifications_cv/).__
+*  __My Certificates [Certificates](Certifications_cv/).__
 *  My CV [Resume](https://github.com/mmsaeed509/mmsaeed509/blob/7870a740d9e3e0a08da066ec32ff8ed4488426cf/Certifications_cv/Mahmoud's%20Resume.pdf)
 
 
