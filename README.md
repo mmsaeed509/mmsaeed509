@@ -36,6 +36,8 @@
 
 [Ahmed El-Beheiry_أحمد بحيري](https://www.youtube.com/c/AhmedBehiry)
 
+[ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
+
 ## Games & Hobbies :
 Games :
 
