@@ -91,7 +91,7 @@ Hobbies :
 
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 
-[![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](mmsaeed509@gmail.com)
+[![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 
 
 
