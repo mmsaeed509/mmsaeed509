@@ -93,7 +93,7 @@ Hobbies :
 
 
 
-## My Tools As A Black theme 🖤
+## My Tools As A Black Theme 🖤
 
 ![Tools As A Black theme](https://user-images.githubusercontent.com/62524855/135686945-9e962256-4408-4275-888a-f1327e0403ca.jpg)
 
