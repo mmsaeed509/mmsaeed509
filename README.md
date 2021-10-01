@@ -6,7 +6,7 @@
 
 ## About Me:
 ###
-* 🎓 I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*.
+* 🎓 I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
 
 * ⭐ Interested in _Cyber Security_.
 
