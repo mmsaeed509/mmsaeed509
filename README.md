@@ -82,15 +82,11 @@ Hobbies :
 
 [![facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
 [![facbook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
-
 [![instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
 
 
 [![tewtter](https://img.icons8.com/doodle/48/000000/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
-
-
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
-
 [![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 
 
