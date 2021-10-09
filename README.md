@@ -2,10 +2,6 @@
 <h3 align="center">I'm a Cyber Security Engineer</h3>
 
 
-![62524855](https://user-images.githubusercontent.com/62524855/136672025-a5227cf8-ecdf-44fd-ada0-e570ac1d9653.jpeg)
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaeed509" /> </p> 
 
 <a href="https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
