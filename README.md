@@ -8,6 +8,8 @@
 <a href="https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
+[![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
+
 
 ![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
 
