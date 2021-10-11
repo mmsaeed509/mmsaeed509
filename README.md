@@ -42,11 +42,12 @@
 * 🎓 I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
 
 * ⭐ Interested in _Cyber Security_.
-
 * 💕 I love learning new technologies
-
 * ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥']
-
+* 🌱 I’m currently learning PenTesting , Reverse Engineering
+* 👯 I’m looking to collaborate on Linux Development
+* 💬 Ask me about Cyber Security , Linux , Network
+* 📫 How to reach me: [FaceBook](https://www.facebook.com/engrody.linux.5/)  , [Instagram](https://www.instagram.com/mmsaeed509/) , [Tewtter](https://twitter.com/Mahmoudzil4) , [Linkedin](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io) , [Gmail](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md) , [Discord](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md) , [Reddit](https://www.reddit.com/user/mmsaeed509)
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 *  __My Certificates [Certificates](Certifications_cv/).__
 *  My CV [Resume](https://github.com/mmsaeed509/mmsaeed509/blob/3c138e10ce301f608d2a3075966bd66e31f8b2e9/Certifications_cv/Mahmoud's%20Resume.pdf)
