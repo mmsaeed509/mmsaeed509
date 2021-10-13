@@ -58,20 +58,21 @@
 
 
 ## Skills ( Languages & Tools ):
-![python](https://img.icons8.com/color/48/000000/python.png)
-![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-![c](https://img.icons8.com/color/48/000000/c-programming.png)
-![shell_scripting](https://img.icons8.com/doodle/48/000000/console--v2.png)
-![power_shell](https://img.icons8.com/ios-filled/50/000000/console.png)
-![ssh](https://img.icons8.com/ios-filled/50/000000/ssh.png)
-![git](https://img.icons8.com/color/48/000000/git.png)
+[![python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](http://www.cplusplus.org/)
+[![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/en/)
+[![c](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.cprogramming.com/)
+[![Bash_scripting](https://img.icons8.com/doodle/48/000000/console--v2.png)](https://www.gnu.org/software/bash/)
+[![power_shell](https://img.icons8.com/ios-filled/50/000000/console.png)](https://docs.microsoft.com/en-us/powershell/)
+[![ssh](https://img.icons8.com/ios-filled/50/000000/ssh.png)](https://en.wikipedia.org/wiki/Secure_Shell)
 
-![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)
-![redhat](https://img.icons8.com/color/48/000000/red-hat.png)
-![vm-ware](https://img.icons8.com/color/50/000000/old-vmware-logo.png)
-![virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)
-![Networking Manager](https://img.icons8.com/nolan/64/networking-manager.png)
+[![git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/)
+[![Linux](https://img.icons8.com/color/48/000000/linux--v2.png)](https://www.linux.org/)
+[![RedHat](https://img.icons8.com/color/48/000000/red-hat.png)](https://www.redhat.com/en)
+[![vm-ware](https://img.icons8.com/color/50/000000/old-vmware-logo.png)](https://www.vmware.com/mena.html)
+[![virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)](https://www.virtualbox.org/)
+[![Networking](https://img.icons8.com/nolan/64/networking-manager.png)](https://www.netacad.com/)
 
 
 
