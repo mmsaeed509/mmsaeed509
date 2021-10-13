@@ -72,27 +72,6 @@
 
 [ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 
-## Games & Hobbies :
-Games :
-
-![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
-![valorant](https://img.icons8.com/color/48/000000/valorant.png)
-![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
-![pes](https://img.icons8.com/officel/16/000000/football2--v1.png)
-![gta](https://img.icons8.com/ios-filled/50/000000/rockstar-games.png)
-![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
-![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
-
-Hobbies : 
-
-![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
-![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
-![sport](https://img.icons8.com/color/48/000000/running--v1.png)
-![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
-![pc building](https://img.icons8.com/fluency/48/000000/pc-on-desk.png)
-
-
-
 
 ## Skills ( Languages & Tools ):
 ![python](https://img.icons8.com/color/48/000000/python.png)
@@ -132,6 +111,25 @@ Hobbies :
 
 ![Tools As A Black theme](https://user-images.githubusercontent.com/62524855/135686945-9e962256-4408-4275-888a-f1327e0403ca.jpg)
 
+
+## Games & Hobbies :
+Games :
+
+![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
+![valorant](https://img.icons8.com/color/48/000000/valorant.png)
+![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
+![pes](https://img.icons8.com/officel/16/000000/football2--v1.png)
+![gta](https://img.icons8.com/ios-filled/50/000000/rockstar-games.png)
+![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
+![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
+
+Hobbies : 
+
+![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
+![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
+![sport](https://img.icons8.com/color/48/000000/running--v1.png)
+![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
+![pc building](https://img.icons8.com/fluency/48/000000/pc-on-desk.png)
 
 
 
