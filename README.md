@@ -54,23 +54,7 @@
 
 
 
-## My Favorite Youtube Channels : ![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)
 
-[David Bombal](https://www.youtube.com/c/DavidBombal)
-
-[NetworkChuck](https://www.youtube.com/c/NetworkChuck)
-
-[Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
-
-[اقتصاد الكوكب](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
-
-[المخبر الاقتصادي - Mokhbir Eqtisadi](https://www.youtube.com/c/MokhbirEqtisadi)
-
-[Ahmed El-Beheiry_أحمد بحيري](https://www.youtube.com/c/AhmedBehiry)
-
-[Alshakhanah Alshangy](https://www.youtube.com/c/AlshakhanahAlshangy)
-
-[ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 
 
 ## Skills ( Languages & Tools ):
@@ -111,6 +95,23 @@
 
 ![Tools As A Black theme](https://user-images.githubusercontent.com/62524855/135686945-9e962256-4408-4275-888a-f1327e0403ca.jpg)
 
+## My Favorite Youtube Channels : ![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)
+
+[David Bombal](https://www.youtube.com/c/DavidBombal)
+
+[NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+
+[Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
+
+[اقتصاد الكوكب](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
+
+[المخبر الاقتصادي - Mokhbir Eqtisadi](https://www.youtube.com/c/MokhbirEqtisadi)
+
+[Ahmed El-Beheiry_أحمد بحيري](https://www.youtube.com/c/AhmedBehiry)
+
+[Alshakhanah Alshangy](https://www.youtube.com/c/AlshakhanahAlshangy)
+
+[ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 
 ## Games & Hobbies :
 Games :
