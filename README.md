@@ -62,8 +62,8 @@
 [![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](http://www.cplusplus.org/)
 [![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/en/)
 [![c](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.cprogramming.com/)
-[![Bash_scripting](https://img.icons8.com/doodle/48/000000/console--v2.png)](https://www.gnu.org/software/bash/)
-[![power_shell](https://img.icons8.com/ios-filled/50/000000/console.png)](https://docs.microsoft.com/en-us/powershell/)
+[![BashScripting](https://img.icons8.com/plasticine/100/000000/bash.png)](https://www.gnu.org/software/bash/)
+[![powerShell](https://img.icons8.com/color/48/000000/powershell.png)](https://docs.microsoft.com/en-us/powershell/)
 [![ssh](https://img.icons8.com/ios-filled/50/000000/ssh.png)](https://en.wikipedia.org/wiki/Secure_Shell)
 
 [![git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
