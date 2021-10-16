@@ -138,7 +138,7 @@ Hobbies :
 
 
 ## Favorite National Team & Team :                         
-  Germany 🇩🇪 & FC Bayern München ❤️❤️
+ <p align="left" Germany 🇩🇪 >  <p align="right" FC Bayern München ❤️❤️>  
 
 <img align="left"  src="https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png">
 
