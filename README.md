@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaeed509" /> </p> 
 
 
-<a href="https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> [Credly](https://www.credly.com/users/mahmoud-ahmed.f374e933)
+<a href="https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a> , [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
 
 [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
