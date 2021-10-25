@@ -59,9 +59,9 @@
 
 ## Skills ( Languages & Tools ):
 [![python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
-[![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](http://www.cplusplus.org/)
-[![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/en/)
 [![c](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.cprogramming.com/)
+[![c++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://www.cprogramming.com/)
+[![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/en/)
 [![BashScripting](https://img.icons8.com/plasticine/100/000000/bash.png)](https://www.gnu.org/software/bash/)
 [![powerShell](https://img.icons8.com/color/48/000000/powershell.png)](https://docs.microsoft.com/en-us/powershell/)
 [![ssh](https://img.icons8.com/ios-filled/50/000000/ssh.png)](https://en.wikipedia.org/wiki/Secure_Shell)
