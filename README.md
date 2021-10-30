@@ -74,7 +74,12 @@
 [![virtual-Box](https://img.icons8.com/color/48/000000/virtualbox.png)](https://www.virtualbox.org/)
 [![Networking](https://img.icons8.com/nolan/64/networking-manager.png)](https://www.netacad.com/)
 
+## My Favorite Linux Distro :
 
+[Parrot Security OS](https://www.parrotsec.org/)
+[KaliLinux](https://www.kali.org/)
+[Garuda Linux](https://garudalinux.org/)
+[Xero Linux](https://xldb.techxero.com/)
 
 
 ## contact with me on 🕸️: 
