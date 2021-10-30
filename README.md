@@ -77,8 +77,11 @@
 ## My Favorite Linux Distro :
 
 [Parrot Security OS](https://www.parrotsec.org/)
+
 [KaliLinux](https://www.kali.org/)
+
 [Garuda Linux](https://garudalinux.org/)
+
 [Xero Linux](https://xldb.techxero.com/)
 
 
