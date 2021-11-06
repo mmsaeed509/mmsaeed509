@@ -3,8 +3,6 @@
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-87a9-4da7addb1bd5.jpeg">
 
-<h1 align="right"></h1> [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=0e75b6&style=flat" alt="mmsaeed509" /> </p> 
 
 
@@ -19,6 +17,8 @@
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
+
+[My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
 
 
 ![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
