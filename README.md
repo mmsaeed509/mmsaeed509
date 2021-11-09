@@ -28,7 +28,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mmsaeed509" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&show_icons=true&theme=radical" alt="mmsaeed509" /></p>
 
 <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=demo" alt="mmsaeed509" /></p>
 
