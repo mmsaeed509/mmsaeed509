@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&theme=light&hide_langs_below=1" alt="mmsaeed509" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=demo" alt="mmsaeed509" /></p>
 
 
 
