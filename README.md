@@ -107,7 +107,7 @@
 
 # More About Me:
 
-## My Favorite Youtube Channels : ![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)
+## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 
 [David Bombal](https://www.youtube.com/c/DavidBombal)
 
