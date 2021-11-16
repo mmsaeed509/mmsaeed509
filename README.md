@@ -112,6 +112,7 @@
 [David Bombal](https://www.youtube.com/c/DavidBombal)
 
 [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+[John Hammond](https://www.youtube.com/c/JohnHammond010)
 
 [Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 
