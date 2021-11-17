@@ -117,6 +117,8 @@
 
 [Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 
+[Cambotar | كمبوطر ](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
+
 [اقتصاد الكوكب](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
 
 [المخبر الاقتصادي - Mokhbir Eqtisadi](https://www.youtube.com/c/MokhbirEqtisadi)
