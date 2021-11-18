@@ -115,6 +115,8 @@
 
 [John Hammond](https://www.youtube.com/c/JohnHammond010)
 
+[anaHr](https://www.youtube.com/c/anaHr)
+
 [Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 
 [Cambotar | كمبوطر ](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
