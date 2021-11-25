@@ -132,6 +132,8 @@
 
 [Omar Abdelrahim](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
 
+[سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
+
 
 
 ## Games & Hobbies :
