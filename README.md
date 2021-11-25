@@ -134,6 +134,8 @@
 
 [سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 
+[Omardizer | عمرديزر](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
+
 
 
 ## Games & Hobbies :
