@@ -128,7 +128,7 @@
 
 [ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 
-[Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ) & [MNEU](https://www.youtube.com/user/NasrAllah99)
+[Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ) [&]() [MNEU](https://www.youtube.com/user/NasrAllah99)
 
 
 
