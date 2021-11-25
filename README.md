@@ -1,5 +1,4 @@
-<h1 align="center">Hi there  👋,I'm Mahmoud</h1>
-<h3 align="center">I'm a Cyber Security Engineer</h3>
+<h3 align="center"> Cyber Security Engineer</h3>
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-87a9-4da7addb1bd5.jpeg">
 
@@ -40,13 +39,11 @@
 
 ## About Me:
 ###
-* 🎓 I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
+*I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
 
-* ⭐ Interested in _Cyber Security_.
-* 💕 I love learning new technologies
-* ⚡ Fun Facts: I ❤️ [ '📖' , '⚽' , '🎥']
-* 🌱 I’m currently learning PenTesting , Reverse Engineering , Digital Forensics
-* 👯 I’m looking to collaborate on Linux Development
+*  Interested in _Cyber Security_ , love learning new technologies.
+* I’m currently learning PenTesting , Reverse Engineering , Digital Forensics
+* I’m looking to collaborate on Linux Development
 * 💬 Ask me about Cyber Security , Linux , Network
 * 📫 How to reach me: [FaceBook](https://www.facebook.com/engrody.linux.5/)  , [Instagram](https://www.instagram.com/mmsaeed509/) , [Tewtter](https://twitter.com/Mahmoudzil4) , [Linkedin](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io) , [Gmail](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md) , [Discord](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md) , [Reddit](https://www.reddit.com/user/mmsaeed509)
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
@@ -131,9 +128,9 @@
 
 [ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 
-[Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
+[Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ) & [MNEU](https://www.youtube.com/user/NasrAllah99)
 
-[MNEU ===> ](https://www.youtube.com/user/NasrAllah99)[   Belongs To Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
+
 
 ## Games & Hobbies :
 Games :
