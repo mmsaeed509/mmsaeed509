@@ -105,12 +105,21 @@
 # More About Me:
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
-
+# `Tech Channels`
+```
 [David Bombal](https://www.youtube.com/c/DavidBombal)
 
 [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
 
 [John Hammond](https://www.youtube.com/c/JohnHammond010)
+
+[Chris Titus Tech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+
+[سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
+
+[Omardizer | عمرديزر](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
+```
+
 
 [anaHr](https://www.youtube.com/c/anaHr)
 
@@ -132,9 +141,7 @@
 
 [Omar Abdelrahim](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
 
-[سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 
-[Omardizer | عمرديزر](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
 
 
 
