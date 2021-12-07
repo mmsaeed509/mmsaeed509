@@ -105,41 +105,38 @@
 # More About Me:
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
-# `Tech Channels`
+### `Tech Channels`
 
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
-
-[NetworkChuck](https://www.youtube.com/c/NetworkChuck)
-
-[John Hammond](https://www.youtube.com/c/JohnHammond010)
-
-[Chris Titus Tech](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
-
-[سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
-
-[Omardizer | عمرديزر](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
+[![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
+[![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
+[![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
 
 
+### `Scientific Channels`
 
-[anaHr](https://www.youtube.com/c/anaHr)
+[![anaHr](https://yt3.ggpht.com/ytc/AKedOLSmlT3YjOGm8ULjUARe8daZkRzom1zqT5KH6iKE=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/anaHr)
 
+### `Tech & Gaming & Setup & Review Channels`
+
+[![سنكرة SANKARA](https://yt3.ggpht.com/ytc/AKedOLQ341O5dYPL0sZVkhmaj22Sr7iNYMC33w1f3KFuUQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
+[![Omardizer | عمرديزر](https://yt3.ggpht.com/ytc/AKedOLSHnYVS6_m1nE_EKdL8RqlADPkAc3uJh5CbUg1-gg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
 [Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
+[![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 
-[Cambotar | كمبوطر ](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
+### `Politics and Economics Channels`
 
-[اقتصاد الكوكب](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
+[![اقتصاد الكوكب](https://yt3.ggpht.com/ytc/AKedOLTjvlaBHO_gyhx9dtAajhJrb75u_Y--YtMhfrTTzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
+[![المخبر الاقتصادي - Mokhbir Eqtisadi](https://yt3.ggpht.com/ytc/AKedOLQ4Kib6pue0ajUUgXRJiMZI6dbZt7qgLVn3EXbB_g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/MokhbirEqtisadi)
+[![Ahmed El-Beheiry_أحمد بحيري](https://yt3.ggpht.com/ytc/AKedOLQsNi7da9g2qpuKXGzpqOOygUjWrtyILMv9aJo5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AhmedBehiry)
+[![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
 
-[المخبر الاقتصادي - Mokhbir Eqtisadi](https://www.youtube.com/c/MokhbirEqtisadi)
+### `FootBall & Others Channels`
 
-[Ahmed El-Beheiry_أحمد بحيري](https://www.youtube.com/c/AhmedBehiry)
-
-[Alshakhanah Alshangy](https://www.youtube.com/c/AlshakhanahAlshangy)
-
-[ElKaweer - الكوير ](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
-
-[Mamdouh NasrAllah](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ) [&]() [MNEU](https://www.youtube.com/user/NasrAllah99)
-
-[Omar Abdelrahim](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
+[![ElKaweer - الكوير ](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
+[![Mamdouh NasrAllah](https://yt3.ggpht.com/ytc/AKedOLQrZVs2tAtB3vHZyByEdT38Li-o_NI2okjGIFe3Bg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
+[![MNEU](https://yt3.ggpht.com/Y04vRk57lxiqPaiz8SXglGX_dmAweusWyYfKVti4JWS45MJKcenBJZS-vTBDLMprewIKQkK4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/NasrAllah99)
+[![Omar Abdelrahim](https://yt3.ggpht.com/ytc/AKedOLR3JfcX0JwLPG3I2bV2D8i2xo1khQpzXFwFX4pM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
 
 
 
