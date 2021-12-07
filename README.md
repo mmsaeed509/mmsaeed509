@@ -106,8 +106,8 @@
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 # `Tech Channels`
-```
-[David Bombal](https://www.youtube.com/c/DavidBombal)
+
+[David Bombal[David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
 
 [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
 
@@ -118,7 +118,7 @@
 [سنكرة SANKARA](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 
 [Omardizer | عمرديزر](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
-```
+
 
 
 [anaHr](https://www.youtube.com/c/anaHr)
