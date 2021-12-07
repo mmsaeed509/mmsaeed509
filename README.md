@@ -121,7 +121,7 @@
 
 [![سنكرة SANKARA](https://yt3.ggpht.com/ytc/AKedOLQ341O5dYPL0sZVkhmaj22Sr7iNYMC33w1f3KFuUQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 [![Omardizer | عمرديزر](https://yt3.ggpht.com/ytc/AKedOLSHnYVS6_m1nE_EKdL8RqlADPkAc3uJh5CbUg1-gg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
-[Arabhardware - عرب هاردوير](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
+[![Arabhardware - عرب هاردوير](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 
 ### `Politics and Economics Channels`
