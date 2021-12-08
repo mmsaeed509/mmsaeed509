@@ -111,6 +111,10 @@
 [![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+[![TechHut](https://yt3.ggpht.com/TUoF-6QCUIKy6XgFtMG5FWi5FLVhtaUPtTOLvE7Ca3eJif1_RKBci07fKK-QvKxhC0HALEBH7Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/TechHutHD)
+
+### `JetBrains Channels`
+
 [![JetBrainsTV](https://yt3.ggpht.com/ytc/AKedOLTqWbbqTs-obiyFw5ZDvKGYXHnaSU6kY0ciqw0oFw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/JetBrainsTV/channels)
 [![IntelliJ IDEA by JetBrains](https://yt3.ggpht.com/ytc/AKedOLR7gbzR0xhCIkhUAzw6lBiMvYUg7GSUEB3rrpiNYg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/intellijideavideo)
 [![PyCharm by JetBrains](https://yt3.ggpht.com/ytc/AKedOLQDA1klp1_3RHR-OF04DbnzSUxILe9uazyHsAjP=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCak6beUTLlVmf0E4AmnQkmw)
