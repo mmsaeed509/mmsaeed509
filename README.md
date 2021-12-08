@@ -105,12 +105,18 @@
 # More About Me:
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
-### `Tech Channels`
+### `Tech & Cyber Security & Programming Channels`
 
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
 [![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+[![JetBrainsTV](https://yt3.ggpht.com/ytc/AKedOLTqWbbqTs-obiyFw5ZDvKGYXHnaSU6kY0ciqw0oFw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/JetBrainsTV/channels)
+[![IntelliJ IDEA by JetBrains](https://yt3.ggpht.com/ytc/AKedOLR7gbzR0xhCIkhUAzw6lBiMvYUg7GSUEB3rrpiNYg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/intellijideavideo)
+[![PyCharm by JetBrains](https://yt3.ggpht.com/ytc/AKedOLQDA1klp1_3RHR-OF04DbnzSUxILe9uazyHsAjP=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCak6beUTLlVmf0E4AmnQkmw)
+[![nodiagnosticrequired](https://yt3.ggpht.com/ytc/AKedOLTum-rqqyQ5acBWoAb2qe4lduyZ4TtBqne9HLc2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCJZdS1wIqASD1MVrJyX8M2Q)
+[![Kotlin by JetBrains](https://yt3.ggpht.com/QfykgcpEnn5dDj_yG8NwtcQiSiSSZuT091pzEACtBECGh7xuVydpV2l6rEw1IJB0kzLQaTKnfg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCP7uiEZIqci43m22KDl0sNw)
+[![JetBrains Techlab](https://yt3.ggpht.com/f_aCqHDN3fXJ_T0HEvHyyRYoy4Z0zQ-whlVtXumhYrtRNMvZSL5bj9Mfj0y9iKxPFH--g6jP=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCU1w5Rx4bnDjw6kh3qFdTbg)
 
 
 ### `Scientific Channels`
@@ -123,6 +129,9 @@
 [![Omardizer | عمرديزر](https://yt3.ggpht.com/ytc/AKedOLSHnYVS6_m1nE_EKdL8RqlADPkAc3uJh5CbUg1-gg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
 [![Arabhardware - عرب هاردوير](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
+[![Linus Tech Tips](https://yt3.ggpht.com/ytc/AKedOLTK0y25C0RJiEngT1ae9mrZLXIortPD-DKQxOlRkw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
+[![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
+
 
 ### `Politics and Economics Channels`
 
