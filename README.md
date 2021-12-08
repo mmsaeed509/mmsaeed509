@@ -113,6 +113,8 @@
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
 [![TechHut](https://yt3.ggpht.com/TUoF-6QCUIKy6XgFtMG5FWi5FLVhtaUPtTOLvE7Ca3eJif1_RKBci07fKK-QvKxhC0HALEBH7Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/TechHutHD)
 [![freeCodeCamp.org](https://yt3.ggpht.com/ytc/AKedOLTtJvQ1Vfew91vemeLaLdhjOwGx3tTBLlreK_QUyA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Freecodecamp)
+[![Abdul Bari](https://yt3.ggpht.com/ytc/AKedOLQ0ZzmuKDUAnn9PnXylG707Oii6hd73U8rXbRGW=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+
 
 ### `  JetBrains Channels  `
 
