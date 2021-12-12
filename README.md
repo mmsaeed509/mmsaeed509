@@ -45,7 +45,7 @@
 * I’m currently learning PenTesting, Reverse Engineering, Digital Forensics.
 * I’m looking to collaborate on Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
-* 📫 How to reach me: [FaceBook](https://www.facebook.com/engrody.linux.5/)  , [Instagram](https://www.instagram.com/mmsaeed509/) , [Tewtter](https://twitter.com/Mahmoudzil4) , [Linkedin](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io) , [Gmail](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md) , [Discord](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md) , [Reddit](https://www.reddit.com/user/mmsaeed509)
+* [📫 How to reach me](#contact-with-me-on)
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 *  __My Certificates [Certificates](Certifications_cv/).__
 *  [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf)
@@ -83,7 +83,7 @@
 [Xero Linux](https://xldb.techxero.com/)
 
 
-## contact with me on 🕸️: 
+## contact with me on
 
 [![facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
 [![facbook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
