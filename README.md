@@ -11,7 +11,6 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
-[My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
 
 
 [![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
@@ -45,6 +44,7 @@
 * I’m currently learning PenTesting, Reverse Engineering, Digital Forensics.
 * I’m looking to collaborate on Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
+* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
 * [📫 How to reach me](#contact-with-me-on)
 * 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
 *  __My Certificates [Certificates](Certifications_cv/).__
