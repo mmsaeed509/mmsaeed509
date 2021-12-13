@@ -20,7 +20,6 @@
 
 
 
-![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
 
 
 
@@ -37,6 +36,8 @@
 
 
 ## About Me:
+![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
+
 ###
 * I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
 
