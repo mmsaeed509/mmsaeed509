@@ -114,7 +114,7 @@ https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
 [![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
-[![Hak5](https://ahmed0x59.github.io/)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+[![Hak5](https://yt3.ggpht.com/ytc/AKedOLQLYwUybycVx47iqpJ-AbSCPACIltHBWax5J8-Uzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 [![ALFA Network Inc](https://yt3.ggpht.com/ytc/AKedOLQqCL-n54irXAaYTl_fAFJzeygWY-MrD4qN61Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/alfanetworkinc)
 
 ### `  Tech & Linux Programming Channels  `
