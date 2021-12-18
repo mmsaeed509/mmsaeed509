@@ -69,13 +69,10 @@
 
 ## My Favorite Linux Distro :
 
-[Parrot Security OS](https://www.parrotsec.org/)
+[![Garuda Linux](https://garudalinux.org/images/garuda/home/garudalinux2.png)](https://garudalinux.org/)
 
-[KaliLinux](https://www.kali.org/)
-
-[Garuda Linux](https://garudalinux.org/)
-
-[Xero Linux](https://xldb.techxero.com/)
+[![Parrot Security OS](https://parrotsec.org/images/logo.png)](https://www.parrotsec.org/)
+[![KaliLinux](https://img.icons8.com/color/48/000000/kali-linux.png)](https://www.kali.org/)
 
 ## My Tools As A Black Theme 🖤
 
