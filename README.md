@@ -92,7 +92,7 @@
 [![tewtter](https://img.icons8.com/doodle/48/000000/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
-[![Discord](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-discord-social-media-justicon-flat-justicon.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
+[![Discord](https://img.icons8.com/fluency/48/000000/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 ### `  Tech & Cyber Security & Network Channels  `
 
