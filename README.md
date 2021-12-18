@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=10&v=2" alt="Ozil's stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Ozil's stats" />
 </p>
 
 ### Skills ( Languages & Tools ):
