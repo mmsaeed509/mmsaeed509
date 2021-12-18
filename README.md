@@ -37,22 +37,10 @@
 ## About Me:
 ![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
 
-###
-* I am an undergraduate student of Computer Science at *Faculty of Computers and Artificial Intelligence Cairo University*. And I am An Independent And Self-motivated Cyber Security Enthusiast With Proven And Ethical Hacking, Pen-testing, Digital Forensics,  Reverse Engineering, And Red-Team Skills.  Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware.
-
-*  Interested in _Cyber Security_, love learning new technologies.
-* I’m currently learning PenTesting, Reverse Engineering, Digital Forensics.
-* I’m looking to collaborate on Linux Development.
+### I'm a Computer Science student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
+* I’m currently learning PenTesting, Reverse Engineering, Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
-* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933)
-* [📫 How to reach me](#contact-with-me-on)
-* 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard).__
-*  __My Certificates [Certificates](Certifications_cv/).__
-*  [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf)
-
-
-
-
+* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-with-me-on). 
 
 
 ## Skills ( Languages & Tools ):
