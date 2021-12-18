@@ -12,14 +12,13 @@
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
 
-
 [![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 
 
-## Github Stats:
+### Github Stats:
 
 <p align="left">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" />
@@ -29,22 +28,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Ozil's stats" />
 </p>
 
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
-## About Me:
-![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
-
-### I'm a Computer Science student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
-* I’m currently learning PenTesting, Reverse Engineering, Linux Development.
-* 💬 Ask me about Cyber Security, Linux, Network.
-* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-with-me-on). 
-
-
-## Skills ( Languages & Tools ):
-
+### Skills ( Languages & Tools ):
 [![Java](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=c%2B%2B)](https://www.cprogramming.com/)
 [![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=c%2B%2B)](https://www.cprogramming.com/)
@@ -67,6 +51,22 @@
 [![virtual-Box](https://img.shields.io/badge/-virtual%20Box-05122A?style=plastic&logo=virtualBox)](https://www.virtualbox.org/)
 [![Networking](https://img.shields.io/badge/-Cisco%20Networking-05122A?style=plastic&logo=cisco)](https://www.netacad.com/)
 
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+## About Me:
+![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
+
+### I'm a Computer Science student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
+* I’m currently learning PenTesting, Reverse Engineering, Linux Development.
+* 💬 Ask me about Cyber Security, Linux, Network.
+* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-with-me-on). 
+
+
+
+
 ## My Favorite Linux Distro :
 
 [Parrot Security OS](https://www.parrotsec.org/)
@@ -77,20 +77,16 @@
 
 [Xero Linux](https://xldb.techxero.com/)
 
-
 ## contact with me on
 
 [![facebook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
 [![facbook](https://img.icons8.com/fluency/48/000000/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
 [![instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
 [![Reddit](https://img.icons8.com/doodle/48/000000/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
-
-
 [![tewtter](https://img.icons8.com/doodle/48/000000/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 [![Discord](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-discord-social-media-justicon-flat-justicon.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
-
 
 ## My Tools As A Black Theme 🖤
 
