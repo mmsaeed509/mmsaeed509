@@ -1,7 +1,4 @@
-<h1 align="center"> Cyber Security Engineer</h3>
-<!--
-https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-87a9-4da7addb1bd5.jpeg
--->
+<h1 align="center">Hi there 👋 I'm Ozil, I'm Cyber Security Engineer</h3>
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145987846-46665808-36fe-49af-a804-feba6164bd90.png">
 
@@ -22,16 +19,15 @@ https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 
 
+## Github Stats:
 
-
-
-
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&show_icons=true&theme=radical" alt="mmsaeed509" /></p>
-
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=demo" alt="mmsaeed509" /></p>
-
+<p align="left">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=compact&theme=tokyonight" alt="Ozil's top language stats" />
+</p>
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Ozil's stats" />
+</p>
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
