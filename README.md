@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Mahmoud Mohamed ,You can call me Ozil<br /> I'm Cyber Security Engineer</h3>
+<h2 align="center">Hi there 👋 I'm Mahmoud Mohamed ,You can call me Özil<br /> I'm Cyber Security Engineer</h3>
 
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145987846-46665808-36fe-49af-a804-feba6164bd90.png">
