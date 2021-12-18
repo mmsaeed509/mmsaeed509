@@ -25,7 +25,7 @@
             &emsp; -> 4x(&nbsp;)
 -->
 <p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;&emsp;
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmsaeed509&layout=compact&theme=tokyonight" alt="Ozil's top language stats" />
 </p>
 
