@@ -151,6 +151,7 @@
 [![Bundesliga](https://yt3.ggpht.com/ytc/AKedOLQRRttxgURK4xqE0A-GcFZlEhxL5skaKlYLjZtOyg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/bundesligatv)
 [![beIN SPORTS](https://yt3.ggpht.com/ytc/AKedOLT3ruHgMaBrdKn9IJwUZQen-8BlZeOy4J_2zG4gOw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/beINSPORTS/channels)
 
+<!--
 
 ## Games & Hobbies :
 Games :
@@ -173,16 +174,23 @@ Hobbies :
 
 
 
-## Favorite National Team & Team :      
-
 <p align="left"  ><b>Germany 🇩🇪</b><br><p align="right" ><b>FC Bayern München ❤️❤️</b><br>
 
-<img align="left"  src="https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png">
+<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png">
 
-<img align="right" src="https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png">
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png">
 
 
+-->
 
+
+## Favorite National Team & Team :      
+
+
+<p align="center">
+    <img height="165" src="https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png" alt="Germany 🇩" />
+    <img height="125" src="https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png" alt="FC Bayern München ❤️❤️" />
+</p>
 
 
 <!--
