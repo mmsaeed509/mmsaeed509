@@ -109,11 +109,16 @@ https://user-images.githubusercontent.com/62524855/136672295-3cbc3f60-6749-41c2-
 # More About Me:
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
-### `  Tech & Cyber Security & Programming Channels  `
+### `  Tech & Cyber Security & Network Programming Channels  `
 
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
 [![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
+[![Hak5](https://ahmed0x59.github.io/)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+[![ALFA Network Inc](https://yt3.ggpht.com/ytc/AKedOLQqCL-n54irXAaYTl_fAFJzeygWY-MrD4qN61Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/alfanetworkinc)
+
+### `  Tech & Linux Programming Channels  `
+
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
 [![TechHut](https://yt3.ggpht.com/TUoF-6QCUIKy6XgFtMG5FWi5FLVhtaUPtTOLvE7Ca3eJif1_RKBci07fKK-QvKxhC0HALEBH7Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/TechHutHD)
 [![freeCodeCamp.org](https://yt3.ggpht.com/ytc/AKedOLTtJvQ1Vfew91vemeLaLdhjOwGx3tTBLlreK_QUyA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Freecodecamp)
