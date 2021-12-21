@@ -69,7 +69,7 @@
 ## About Me:
 ![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
 
-### I'm a Computer Science student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
+### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
 * [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/a2186b071793daa5a8077d77abdce5a5d3f242a8/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-with-me-on). 
