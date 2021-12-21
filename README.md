@@ -3,10 +3,10 @@
 
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145987846-46665808-36fe-49af-a804-feba6164bd90.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=brightgreen&style=flat" alt="mmsaeed509" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
 
+[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=plastic&logo=Discord&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md)
 
-<a href="https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=brightgreen&style=flat" alt="Discord"></a> 
 
 [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
@@ -34,34 +34,30 @@
 </p>
 
 ### Skills ( Languages & Tools ):
-[![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&logoColor=brightgreen&color=brightgreen)](https://www.linux.org/)
-[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=brightgreen&color=brightgreen)](https://www.linux.org/)
-[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=brightgreen&color=brightgreen)](https://www.linux.org/)
-[![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&logoColor=brightgreen&color=brightgreen)](https://www.vmware.com/mena.html)
-[![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&logoColor=brightgreen&color=brightgreen)](https://www.virtualbox.org/)
-[![Git](https://img.shields.io/badge/git-Git-05122A?style=flat&logo=git&logoColor=brightgreen&color=brightgreen)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&logoColor=brightgreen&color=brightgreen)](https://github.com/)
-[![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/)
-[![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/idea/)
-[![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/clion/)
-[![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/datagrip/)
-[![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/pycharm/)
-[![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=brightgreen&color=brightgreen)](https://www.jetbrains.com/decompiler/)
-[![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&logoColor=brightgreen&color=brightgreen)](https://developer.android.com/studio)
-[![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=brightgreen&color=brightgreen)](https://code.visualstudio.com/)
-[![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&logoColor=brightgreen&color=brightgreen)](https://www.java.com/en/)
-[![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&logoColor=brightgreen&color=brightgreen)](https://www.cprogramming.com/)
-[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c%2B%2B&logoColor=brightgreen&color=brightgreen)](https://www.cprogramming.com/)
-[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&logoColor=brightgreen&color=brightgreen)](https://www.python.org/)
-[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&logoColor=brightgreen&color=brightgreen)](https://www.markdownguide.org/)
-[![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=brightgreen&color=brightgreen)](https://www.mysql.com/)
-[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=brightgreen&color=brightgreen)](https://www.gnu.org/software/bash/)
-[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=brightgreen&color=brightgreen)](https://docs.microsoft.com/en-us/powershell/)
-[![Networking](https://img.shields.io/badge/Cisco-Networking-05122A?style=plastic&logo=cisco&logoColor=brightgreen&color=brightgreen)](https://www.netacad.com/)
-
-
-
-
+[![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&logoColor=informational&color=informational)](https://www.linux.org/)
+[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
+[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/)
+[![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&logoColor=informational&color=informational)](https://www.vmware.com/mena.html)
+[![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&logoColor=informational&color=informational)](https://www.virtualbox.org/)
+[![Git](https://img.shields.io/badge/git-Git-05122A?style=flat&logo=git&logoColor=informational&color=informational)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&logoColor=informational&color=informational)](https://github.com/)
+[![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&logoColor=informational&color=informational)](https://www.jetbrains.com/)
+[![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&logoColor=informational&color=informational)](https://www.jetbrains.com/idea/)
+[![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&logoColor=informational&color=informational)](https://www.jetbrains.com/clion/)
+[![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&logoColor=informational&color=informational)](https://www.jetbrains.com/datagrip/)
+[![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&logoColor=informational&color=informational)](https://www.jetbrains.com/pycharm/)
+[![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/)
+[![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&logoColor=informational&color=informational)](https://developer.android.com/studio)
+[![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=informational&color=informational)](https://code.visualstudio.com/)
+[![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&logoColor=informational&color=informational)](https://www.java.com/en/)
+[![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
+[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
+[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&logoColor=informational&color=informational)](https://www.python.org/)
+[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&logoColor=informational&color=informational)](https://www.markdownguide.org/)
+[![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/)
+[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=informational&color=informational)](https://www.gnu.org/software/bash/)
+[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=informational&color=informational)](https://docs.microsoft.com/en-us/powershell/)
+[![Networking](https://img.shields.io/badge/Cisco-Networking-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
 
 
 <!--
