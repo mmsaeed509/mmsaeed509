@@ -49,6 +49,7 @@
 [![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/)
 [![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&logoColor=informational&color=informational)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=informational&color=informational)](https://code.visualstudio.com/)
+[![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
 [![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&logoColor=informational&color=informational)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
 [![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
@@ -83,8 +84,12 @@
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=informational&color=informational)](https://archlinux.org/)
 [![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://www.debian.org/)
 [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&logoColor=informational&color=informational)](https://www.redhat.com/en)
-[![KaliLinux](https://img.shields.io/badge/OS-Kali-05122A?style=plastic&logo=KaliLinux&logoColor=informational&color=informational)](https://www.kali.org/)
-[![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&logoColor=informational&color=informational)](https://www.debian.org/)
+[![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&logoColor=informational&color=informational)](https://www.kali.org/)
+[![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&logoColor=informational&color=informational)](https://www.qubes-os.org/)
+[![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=informational&color=informational)](https://blackarch.org/)
+[![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&logoColor=informational&color=informational)](https://linuxmint.com/)
+[![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://parrotsec.org/)
+[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://www.wifislax.com/)
 
 ## My Tools As A Black Theme 🖤
 
