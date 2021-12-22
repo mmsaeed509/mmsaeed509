@@ -89,7 +89,7 @@
 [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=informational&color=informational)](https://blackarch.org/)
 [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&logoColor=informational&color=informational)](https://linuxmint.com/)
 [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://parrotsec.org/)
-[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://www.wifislax.com/)
+[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=linux&logoColor=informational&color=informational)](https://www.wifislax.com/)
 
 ## My Tools As A Black Theme 🖤
 
