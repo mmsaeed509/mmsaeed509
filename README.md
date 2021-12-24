@@ -58,7 +58,7 @@
 [![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/)
 [![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=informational&color=informational)](https://www.gnu.org/software/bash/)
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=informational&color=informational)](https://docs.microsoft.com/en-us/powershell/)
-[![Networking](https://img.shields.io/badge/Cisco-Networking-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
+[![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA)
 
 
 <!--
