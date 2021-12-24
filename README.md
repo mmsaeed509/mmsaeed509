@@ -91,6 +91,7 @@
 [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://parrotsec.org/)
 [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=linux&logoColor=informational&color=informational)](https://www.wifislax.com/)
 
+## Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-with-me-on)
 ## My Tools As A Black Theme 🖤
 
 ![Tools As A Black theme](https://user-images.githubusercontent.com/62524855/135686945-9e962256-4408-4275-888a-f1327e0403ca.jpg)
@@ -107,6 +108,8 @@
 [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](https://img.icons8.com/color/50/000000/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 [![Discord](https://img.icons8.com/fluency/48/000000/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
+[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
+
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 ### `  Tech & Cyber Security & Network Channels  `
 
