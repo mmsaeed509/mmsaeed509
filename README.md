@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Mahmoud Mohamed ,You can call me Özil<br /> I'm Cyber Security Researcher/Enthusiast </h3>
 
 
-<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/62524855/145987846-46665808-36fe-49af-a804-feba6164bd90.png">
+<img align="right" width="100" height="100" src="https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
 
@@ -67,7 +67,7 @@
 
 
 ## About Me:
-![IMG_20210805_181827](https://user-images.githubusercontent.com/62524855/133147870-f8594675-0e87-46ae-a791-856e56756282.jpg)
+![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg)
 
 ### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
@@ -94,7 +94,7 @@
 ## Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-with-me-on)
 ## My Tools As A Black Theme 🖤
 
-![Tools As A Black theme](https://user-images.githubusercontent.com/62524855/135686945-9e962256-4408-4275-888a-f1327e0403ca.jpg)
+![Tools As A Black theme](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/Black-Theme_Setup.jpg)
 
 
 # More About Me:
