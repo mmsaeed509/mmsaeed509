@@ -150,7 +150,8 @@
 [![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 [![Linus Tech Tips](https://yt3.ggpht.com/ytc/AKedOLTK0y25C0RJiEngT1ae9mrZLXIortPD-DKQxOlRkw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
-
+[![Android Basha | أندرويد باشا](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
+[![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 
 ### `  Politics and Economics Channels  `
 
