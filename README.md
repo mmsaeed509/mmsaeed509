@@ -53,7 +53,7 @@
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
 [![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&logoColor=informational&color=informational)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
-[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c%2B%2B&logoColor=informational&color=informational)](https://www.cprogramming.com/)
+[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&logoColor=informational&color=informational)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&logoColor=informational&color=informational)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&logoColor=informational&color=informational)](https://www.markdownguide.org/)
 [![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/)
