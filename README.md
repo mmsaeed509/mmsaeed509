@@ -66,7 +66,7 @@
 <!-- [![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/) -->
 
 ## About Me:
-![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg)
+<!-- ![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg) -->
 
 ### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
