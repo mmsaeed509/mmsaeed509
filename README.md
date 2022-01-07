@@ -71,7 +71,7 @@
 ### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
-* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/main/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-with-me-on). 
+* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](https://github.com/mmsaeed509/mmsaeed509/blob/main/Certifications_cv/Mahmoud's%20Resume.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-me). 
 
 
 
@@ -90,15 +90,15 @@
 [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://parrotsec.org/)
 [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&logoColor=informational&color=informational)](https://www.wifislax.com/)
 
-## Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-with-me-on)
+#### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-with-me-on)
 ## My Tools As A Black Theme 🖤
 
 ![Tools As A Black theme](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/Black-Theme_Setup.jpg)
 
 
 # More About Me:
-## contact with me on
-## [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
+## contact me
+[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
 
 [![facebook](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
 [![facbook](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
