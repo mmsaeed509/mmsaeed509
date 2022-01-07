@@ -36,8 +36,6 @@
 
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&logoColor=informational&color=informational)](https://www.linux.org/)
-[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
-[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&logoColor=informational&color=informational)](https://www.vmware.com/mena.html)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&logoColor=informational&color=informational)](https://www.virtualbox.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=flat&logo=git&logoColor=informational&color=informational)](https://git-scm.com/)
@@ -47,7 +45,6 @@
 [![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&logoColor=informational&color=informational)](https://www.jetbrains.com/clion/)
 [![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&logoColor=informational&color=informational)](https://www.jetbrains.com/datagrip/)
 [![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&logoColor=informational&color=informational)](https://www.jetbrains.com/pycharm/)
-[![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/)
 [![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&logoColor=informational&color=informational)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=informational&color=informational)](https://code.visualstudio.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
@@ -56,16 +53,17 @@
 [![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&logoColor=informational&color=informational)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&logoColor=informational&color=informational)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&logoColor=informational&color=informational)](https://www.markdownguide.org/)
-[![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/)
 [![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=informational&color=informational)](https://www.gnu.org/software/bash/)
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=informational&color=informational)](https://docs.microsoft.com/en-us/powershell/)
-[![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA)
 
-
+<!-- [![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA) -->
+<!-- [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
+[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/) -->
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!-- [![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/) -->
+<!-- [![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/) -->
 
 ## About Me:
 ![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg)
