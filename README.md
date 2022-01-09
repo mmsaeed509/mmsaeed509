@@ -85,6 +85,7 @@
 [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&logoColor=informational&color=informational)](https://www.redhat.com/en)
 [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&logoColor=informational&color=informational)](https://www.kali.org/)
 [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&logoColor=informational&color=informational)](https://www.qubes-os.org/)
+[![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&logoColor=informational&color=informational)](https://tails.boum.org/)
 [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=informational&color=informational)](https://blackarch.org/)
 [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&logoColor=informational&color=informational)](https://linuxmint.com/)
 [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://parrotsec.org/)
