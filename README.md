@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Mahmoud Mohamed ,You can call me Özil<br /> I'm Cyber Security Researcher/Enthusiast </h3>
 
 
-<img align="right" width="100" height="100" src="https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil.png">
+<img align="right" width="100" height="100" src="/Images/ozil.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
 
