@@ -77,9 +77,10 @@
 
 
 ## My Favorite Linux Distro :
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
-[![Garuda Linux](https://garudalinux.org/images/garuda/home/garudalinux2.png)](https://garudalinux.org/)
-
+[![Garuda Linux](/Images/garudalinux2.png)](https://garudalinux.org/)
+<br/>
+<br/>
+<br/>
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=informational&color=informational)](https://archlinux.org/)
 [![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&logoColor=informational&color=informational)](https://www.debian.org/)
 [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&logoColor=informational&color=informational)](https://www.redhat.com/en)
@@ -101,14 +102,14 @@
 ## contact me
 [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
 
-[![facebook](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
-[![facbook](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
-[![instagram](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
-[![Reddit](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
-[![tewtter](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
-[![linkedin](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
-[![gmail](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
-[![Discord](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
+[![facebook](/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
+[![facbook](/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
+[![instagram](/Images/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
+[![Reddit](/Images/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
+[![tewtter](/Images/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
+[![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
+[![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
+[![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 ### `  Tech & Cyber Security & Network Channels  `
