@@ -153,7 +153,7 @@
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
 [![Android Basha | أندرويد باشا](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
-
+[![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
 ### `  Politics and Economics Channels  `
 
 [![اقتصاد الكوكب](https://yt3.ggpht.com/ytc/AKedOLTjvlaBHO_gyhx9dtAajhJrb75u_Y--YtMhfrTTzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
