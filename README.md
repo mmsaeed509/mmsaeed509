@@ -95,7 +95,7 @@
 #### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me)
 ## My Tools As A Black Theme 🖤
 
-![Tools As A Black theme](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/Black-Theme_Setup.jpg)
+![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
 
 
 # More About Me:
@@ -211,9 +211,9 @@ Hobbies :
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **Germany 🇩🇪**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**FC Bayern München ❤️❤️**
 
 <p align="center">
-    <img height="165" src="https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/dfb_team.png" alt="Germany 🇩" />
+    <img height="165" src="/Images/dfb_team.png" alt="Germany 🇩" />
        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img height="135" src="https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/fcbayern.png" alt="FC Bayern München ❤️❤️" />
+    <img height="135" src="/Images/fcbayern.png" alt="FC Bayern München ❤️❤️" />
 </p>
 
 
