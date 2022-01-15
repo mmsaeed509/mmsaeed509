@@ -98,7 +98,8 @@
 ![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
 
 
-# More About Me:
+<!-- # More About Me: -->
+
 ## contact me
 [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
 
@@ -111,6 +112,8 @@
 [![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 [![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
 
+
+<!--
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 ### `  Tech & Cyber Security & Network Channels  `
 
@@ -173,6 +176,7 @@
 [![Bundesliga](https://yt3.ggpht.com/ytc/AKedOLQRRttxgURK4xqE0A-GcFZlEhxL5skaKlYLjZtOyg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/bundesligatv)
 [![beIN SPORTS](https://yt3.ggpht.com/ytc/AKedOLT3ruHgMaBrdKn9IJwUZQen-8BlZeOy4J_2zG4gOw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/beINSPORTS/channels)
 
+-->
 <!--
 
 ## Games & Hobbies :
@@ -194,18 +198,9 @@ Hobbies :
 ![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
 ![pc building](https://img.icons8.com/fluency/48/000000/pc-on-desk.png)
 
-
-
-<p align="left"  ><b>Germany 🇩🇪</b><br><p align="right" ><b>FC Bayern München ❤️❤️</b><br>
-
-<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png">
-
-<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png">
-
-
 -->
 
-
+<!--
 ## Favorite National Team & Team :      
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **Germany 🇩🇪**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**FC Bayern München ❤️❤️**
@@ -215,16 +210,9 @@ Hobbies :
        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img height="135" src="/Images/fcbayern.png" alt="FC Bayern München ❤️❤️" />
 </p>
-
+-->
 
 <!--
-
-
-![DFBEagle svg](https://user-images.githubusercontent.com/62524855/129447864-0cbaff11-cbc7-41fc-bb4d-808d702349a2.png)
-![Bayern+munich+logo](https://user-images.githubusercontent.com/62524855/129447974-0bcaa412-1951-4705-988b-73beff7548d7.png)
-
-
-
 **mmsaeed509/mmsaeed509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
