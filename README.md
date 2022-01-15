@@ -42,11 +42,13 @@
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&logoColor=informational&color=informational)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://github.com/)
 [![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&logoColor=informational&color=informational)](https://www.jetbrains.com/)
+[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=informational&color=informational)](https://www.gnu.org/software/bash/)
 [![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&logoColor=informational&color=informational)](https://www.jetbrains.com/idea/)
 [![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&logoColor=informational&color=informational)](https://www.jetbrains.com/clion/)
 [![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&logoColor=informational&color=informational)](https://www.jetbrains.com/datagrip/)
 [![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&logoColor=informational&color=informational)](https://www.jetbrains.com/pycharm/)
 [![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&logoColor=informational&color=informational)](https://developer.android.com/studio)
+[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=informational&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=informational&color=informational)](https://code.visualstudio.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://www.netacad.com/)
 [![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&logoColor=informational&color=informational)](https://www.java.com/en/)
@@ -54,8 +56,7 @@
 [![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&logoColor=informational&color=informational)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&logoColor=informational&color=informational)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&logoColor=informational&color=informational)](https://www.markdownguide.org/)
-[![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=informational&color=informational)](https://www.gnu.org/software/bash/)
-[![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&logoColor=informational&color=informational)](https://docs.microsoft.com/en-us/powershell/)
+
 
 <!-- [![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA) -->
 <!-- [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
