@@ -38,7 +38,7 @@
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&logoColor=informational&color=informational)](https://www.linux.org/)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&logoColor=informational&color=informational)](https://www.vmware.com/mena.html)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&logoColor=informational&color=informational)](https://www.virtualbox.org/)
-[![Git](https://img.shields.io/badge/git-Git-05122A?style=flat&logo=git&logoColor=informational&color=informational)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&logoColor=informational&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&logoColor=informational&color=informational)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://github.com/)
 [![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&logoColor=informational&color=informational)](https://www.jetbrains.com/)
