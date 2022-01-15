@@ -40,6 +40,7 @@
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&logoColor=informational&color=informational)](https://www.virtualbox.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=flat&logo=git&logoColor=informational&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&logoColor=informational&color=informational)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://github.com/)
 [![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&logoColor=informational&color=informational)](https://www.jetbrains.com/)
 [![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&logoColor=informational&color=informational)](https://www.jetbrains.com/idea/)
 [![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&logoColor=informational&color=informational)](https://www.jetbrains.com/clion/)
