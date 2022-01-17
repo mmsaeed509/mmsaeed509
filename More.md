@@ -6,6 +6,7 @@
 </br>
 </br>
 </br>
+
 ### *Tech & Cyber Security & Network & Linux & Programming & Gaming & Setup & Review Channels*
 
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
@@ -41,9 +42,7 @@
 ### *Scientific Channels*
 
 [![anaHr](https://yt3.ggpht.com/ytc/AKedOLSmlT3YjOGm8ULjUARe8daZkRzom1zqT5KH6iKE=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/anaHr)
-
-### `  Tech   `
-
+[![Khan Academy](https://yt3.ggpht.com/ytc/AKedOLTYTpeOiL8n_l9gepDh3m3vczvElfHZO-BR6oAf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/khanacademy)
 
 ### *Politics and Economics Channels*
 
