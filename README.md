@@ -41,7 +41,6 @@
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://github.com/)
-[![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&color=informational)](https://www.jetbrains.com/)
 [![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
 [![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&color=informational)](https://www.jetbrains.com/idea/)
 [![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&color=informational)](https://www.jetbrains.com/clion/)
@@ -58,14 +57,23 @@
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&color=informational)](https://www.markdownguide.org/)
 
 
-<!-- [![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA) -->
-<!-- [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
-[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/) -->
 <!--
+
+[![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&color=informational)](https://www.jetbrains.com/)
+
+[![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA) 
+
+[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.linux.org/)
+
+[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
+
+[![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/) 
+
+[![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/) 
+
 -->
-<!-- [![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/) -->
-<!-- [![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/) -->
 
 ## About Me:
 <!-- ![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg) -->
