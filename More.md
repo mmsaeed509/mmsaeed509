@@ -28,6 +28,7 @@
 [![Android Basha | أندرويد باشا](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 [![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
+[![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
 
 ###   *JetBrains Channels*
 
