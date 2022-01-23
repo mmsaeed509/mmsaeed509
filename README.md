@@ -103,10 +103,6 @@
 [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)
 
 #### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me)
-## My Tools As A Black Theme 🖤
-
-![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
-
 
 <!-- # More About Me: -->
 
