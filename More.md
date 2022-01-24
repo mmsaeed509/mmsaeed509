@@ -68,6 +68,10 @@
 ![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
 
 
+## My Setup
+
+![](Images/OzozSetup.jpg)
+
 ## Games & Hobbies :
 Games :
 
