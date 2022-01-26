@@ -68,7 +68,7 @@
 ![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
 
 
-## My Setup
+## [My Setup](/My Setup/README.md)
 
 ![](Images/OzozSetup.jpg)
 
