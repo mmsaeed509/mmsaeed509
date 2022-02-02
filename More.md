@@ -28,7 +28,7 @@
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 [![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
 [![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
-
+[![SavvyNik](https://yt3.ggpht.com/ytc/AKedOLSoSCjd3Z-XOmSwaQBRfF--xJubceEw7NGSODt0mA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3yaWWA9FF9OBog5U9ml68A)
 ###   *JetBrains Channels*
 
 [![JetBrainsTV](https://yt3.ggpht.com/ytc/AKedOLTqWbbqTs-obiyFw5ZDvKGYXHnaSU6kY0ciqw0oFw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/JetBrainsTV/channels)
