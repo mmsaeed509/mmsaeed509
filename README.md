@@ -34,6 +34,35 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Ozil's stats" />
 </p>
 
+<!--  -->
+### Important Projects
+<p align="left">
+<a href="https://github.com/mmsaeed509/EXodia-OS">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
+</a>
+      &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;     
+<a href="https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Wireless-Pi-Tool-Kit&layout=compact&theme=tokyonight" />
+</a>
+            
+<br/>
+<br/>   
+            
+<a href="https://github.com/mmsaeed509/My-Linux-Customization">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=My-Linux-Customization&layout=compact&theme=tokyonight" />
+</a>
+       &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;     
+<a href="https://github.com/mmsaeed509/Ransomware">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
+</a>  
+            
+            
+</p>
+
+
+<!--  -->
+
+
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
