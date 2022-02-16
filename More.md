@@ -53,7 +53,7 @@
 [![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
 [![AJ+ كبريت](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/AJPlusArabic)
 
-### *FootBall & Others Channels*
+### *FootBall & Entertainment & Others Channels*
 
 [![ElKaweer - الكوير ](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 [![Mamdouh NasrAllah](https://yt3.ggpht.com/ytc/AKedOLQrZVs2tAtB3vHZyByEdT38Li-o_NI2okjGIFe3Bg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
@@ -64,6 +64,7 @@
 [![German Football](https://yt3.ggpht.com/ytc/AKedOLTKQ0Ujgoi92io1hNgN56iSvZmyM_bYCxTwqKy2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/GermanFootball)
 [![Bundesliga](https://yt3.ggpht.com/ytc/AKedOLQRRttxgURK4xqE0A-GcFZlEhxL5skaKlYLjZtOyg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/bundesligatv)
 [![beIN SPORTS](https://yt3.ggpht.com/ytc/AKedOLT3ruHgMaBrdKn9IJwUZQen-8BlZeOy4J_2zG4gOw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/beINSPORTS/channels)
+[![AL HASHIM - حسن هاشم](https://yt3.ggpht.com/ytc/AKedOLRHEPdYBD51TTzHSz136-MfO561azOeXisW-7zA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCN1Lyow-3R4jtN-cddDd_eQ)
 
 ## My Tools As A Black Theme 🖤
 
