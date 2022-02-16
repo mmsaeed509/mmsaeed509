@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
 
-[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=plastic&logo=Discord&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md)
+[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=plastic&logo=Discord&color=informational)](https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md)
 [![Linux](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://gitlab.com/mmsaeed509)
 
 
