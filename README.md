@@ -111,43 +111,8 @@
 ### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
 * 💬 Ask me about Cyber Security, Linux, Network.
-* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud's%20Resume.pdf), [My_Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-me), [More About Me](/More.md). 
-
-
-
-
-## My Favorite Linux Distro :
-[![Garuda Linux](/Images/garudalinux2.png)](https://garudalinux.org/)
-<br/>
-<br/>
-<br/>
-[![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&color=informational)](https://archlinux.org/)
-[![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&color=informational)](https://www.debian.org/)
-[![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational)](https://www.redhat.com/en)
-[![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/)
-[![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/)
-[![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/)
-[![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)
-[![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/)
-[![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=linux&color=informational)](https://parrotsec.org/)
-[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)
-
-#### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me)
-
-<!-- # More About Me: -->
-
-## contact me
-[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
-
-[![facebook](/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
-[![facbook](/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
-[![instagram](/Images/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
-[![Reddit](/Images/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
-[![tewtter](/Images/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
-[![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
-[![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
-[![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
-
+* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud's%20Resume.pdf), [My_Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-me).
+<!-- START OF MORE ABOUT ME -->
 
 <details>
   <summary>More About Me</summary>
@@ -230,6 +195,8 @@
 
 ![](/Images/OzozSetup.jpg)
 
+## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
+
 ## Games & Hobbies :
 Games :
 
@@ -263,6 +230,40 @@ Hobbies :
 </details>
 
 
+<!-- END OF MORE ABOUT ME -->
+
+
+## My Favorite Linux Distro :
+[![Garuda Linux](/Images/garudalinux2.png)](https://garudalinux.org/)
+<br/>
+<br/>
+<br/>
+[![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&color=informational)](https://archlinux.org/)
+[![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&color=informational)](https://www.debian.org/)
+[![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational)](https://www.redhat.com/en)
+[![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/)
+[![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/)
+[![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/)
+[![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)
+[![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/)
+[![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=linux&color=informational)](https://parrotsec.org/)
+[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)
+
+#### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me).
+
+<!-- # More About Me: -->
+
+## contact me
+[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
+
+[![facebook](/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
+[![facbook](/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
+[![instagram](/Images/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
+[![Reddit](/Images/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
+[![tewtter](/Images/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
+[![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
+[![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
+[![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
 
 
 <!--
