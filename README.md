@@ -115,7 +115,7 @@
 <!-- START OF MORE ABOUT ME -->
 
 <details>
-  <summary>More About Me</summary>
+  # <summary>More About Me</summary>
   <h1 align="center">More About Me  </h1>
 
 ![](/Images/ozil-Setup.jpg)
