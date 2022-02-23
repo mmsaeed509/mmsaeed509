@@ -200,6 +200,8 @@
 
 ![](/Images/Xmonad.webp)
 
+![](/Images/desrec.webp)
+
 ![](/Images/Xmonad_7.png)
 
 ![](/Images/KDE_1.png)
