@@ -77,6 +77,21 @@
 
 ![](Images/OzozSetup.jpg)
 
+## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
+
+![](/Images/Xmonad.webp)
+
+![](/Images/desrec.webp)
+
+![](/Images/Xmonad_7.png)
+
+![](/Images/KDE_1.png)
+
+![](/Images/KDE_2.png)
+
+![](/Images/Xmonad-Final.png)
+
+
 ## Games & Hobbies :
 Games :
 
