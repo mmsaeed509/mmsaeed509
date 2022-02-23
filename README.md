@@ -38,11 +38,11 @@
 ### Important Projects
 <p align="left">
 <a href="https://github.com/Exodia-OS/EXodia-OS-independent-based-version-">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Wireless-Pi-Tool-Kit&layout=compact&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Wireless-Pi-Tool-Kit&layout=compact&theme=tokyonight" />
 </a>
             
 <br/>
@@ -50,11 +50,11 @@
 <br/>
             
 <a href="https://github.com/mmsaeed509/My-Linux-Customization">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=My-Linux-Customization&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=My-Linux-Customization&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Ransomware">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
 </a>  
             
             
