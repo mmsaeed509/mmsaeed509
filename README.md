@@ -37,7 +37,7 @@
 <!--  -->
 ### Important Projects
 <p align="left">
-<a href="https://github.com/Exodia-OS/EXodia-OS-independent-based-version-">
+<a href="https://github.com/Exodia-OS/EXodia-OS-Independent-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
