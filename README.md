@@ -171,7 +171,6 @@
 [![المخبر الاقتصادي - Mokhbir Eqtisadi](https://yt3.ggpht.com/ytc/AKedOLQ4Kib6pue0ajUUgXRJiMZI6dbZt7qgLVn3EXbB_g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/MokhbirEqtisadi)
 [![Ahmed El-Beheiry_أحمد بحيري](https://yt3.ggpht.com/ytc/AKedOLQsNi7da9g2qpuKXGzpqOOygUjWrtyILMv9aJo5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AhmedBehiry)
 [![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
-[![AJ+ كبريت](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/AJPlusArabic)
 
 ### *FootBall & Entertainment & Others Channels*
 
