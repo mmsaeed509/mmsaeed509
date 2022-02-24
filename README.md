@@ -83,7 +83,6 @@
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
-[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
 [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
 [![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 [![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&color=informational)](https://www.java.com/en/)
@@ -92,6 +91,7 @@
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=flat&logo=markdown&color=informational)](https://www.markdownguide.org/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=flat&logo=docker&color=informational)](https://www.docker.com/)
+[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
 
 
 <!--
