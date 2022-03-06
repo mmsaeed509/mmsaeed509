@@ -193,6 +193,9 @@
 [![AL HASHIM - حسن هاشم](https://yt3.ggpht.com/ytc/AKedOLRHEPdYBD51TTzHSz136-MfO561azOeXisW-7zA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCN1Lyow-3R4jtN-cddDd_eQ)
 [![AJ+ كبريت](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-4KnPMmZzwAzW7SbVATUZQ)
 [![Elplatform - البلاتفورم](https://yt3.ggpht.com/ytc/AKedOLSujrhOtYxqMPmw-aFK_x5qnAkMA49hhVI_F1fV=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCO6ST5lJ_wsVIM_6cBiqUvw)
+[![يحيى عزام](https://yt3.ggpht.com/tUkNM2gRl7xKoS13i90fnJciObw-9UpXyRtnCAo0Sc8LeGlnayu7lR8dfA8DEoZGwIxim0DMjQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/YayaAzzam/channels)
+[![EL BALF - الاسطى عبده الـبلــف](https://yt3.ggpht.com/3gUKyrmv33zdTHI39Nc4c985bG8UIhJT-KWu9BbxZyXiA-luhmG-qDRZn6ujcTfsaNAFIEFtAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCyzSRvqm6AVuNtYOMNYEA0Q)
+[![YAYA Gaming - العب يا نووب](https://yt3.ggpht.com/ytc/AKedOLSoUpnkvIV_CprQt6P2hyo-bxQW1vaA6uZ6gWn_Qs8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh6Vd2V_fKhmTYAfeHcOI2A)
 
 ## My Tools As A Black Theme 🖤
 
