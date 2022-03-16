@@ -264,10 +264,17 @@ Hobbies :
 
 
 ## My Favorite Linux Distro :
-[![Garuda Linux](/Images/garudalinux2.png)](https://garudalinux.org/)
+
+<a href="https://archcraft.io/">
+  <img align="center" src="/Images/archcraft.png" />
+</a>
+
+
+<!-- [![Garuda Linux](/Images/archcraft.png)](https://archcraft.io/) -->
 <br/>
 <br/>
 <br/>
+
 [![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&color=informational)](https://archlinux.org/)
 [![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&color=informational)](https://www.debian.org/)
 [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational)](https://www.redhat.com/en)
@@ -278,6 +285,8 @@ Hobbies :
 [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/)
 [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=linux&color=informational)](https://parrotsec.org/)
 [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)
+[![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)
+
 
 #### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me).
 
