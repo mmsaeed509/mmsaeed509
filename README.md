@@ -36,14 +36,16 @@
 
 <!--  -->
 ### Important Projects
-<p align="left">
+<!--
+ <p align="left">
 <a href="https://github.com/Exodia-OS/EXodia-OS-Independent-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Wireless-Pi-Tool-Kit&layout=compact&theme=tokyonight" />
-</a>
+</a> 
+-->
             
 <br/>
 <br/>
