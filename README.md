@@ -36,23 +36,6 @@
 
 <!--  -->
 ### Important Projects
-<!--
- <p align="left">
-<a href="https://github.com/Exodia-OS/EXodia-OS-Independent-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=EXodia-OS&layout=compact&theme=tokyonight" />
-</a>
-            &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/mmsaeed509/Wireless-Pi-Tool-Kit">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Wireless-Pi-Tool-Kit&layout=compact&theme=tokyonight" />
-</a> 
-
-            
-<br/>
-<br/>
-<br/>
-
--->
-
             
 <a href="https://github.com/mmsaeed509/My-Linux-Customization">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=My-Linux-Customization&layout=compact&theme=tokyonight" />
@@ -97,25 +80,6 @@
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
-
-
-<!--
-
-
-
-[![Networking](https://img.shields.io/badge/Cisco-CCNA-05122A?style=plastic&logo=cisco&logoColor=informational&color=informational)](https://github.com/mmsaeed509/mmsaeed509/tree/main/Certifications_cv/Cisco/CCNA) 
-
-
-
-[![macos](https://img.shields.io/badge/OS-MacOS-05122A?style=plastic&logo=macos&logoColor=informational&color=informational)](https://www.linux.org/)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmsaeed509)](https://github.com/anuraghazra/github-readme-stats)
-
-[![MySql](https://img.shields.io/badge/database-SQL-05122A?style=plastic&logo=mysql&logoColor=informational&color=informational)](https://www.mysql.com/) 
-
-[![dotpeek](https://img.shields.io/badge/jetbrains-dotpeek-05122A?style=plastic&logo=dot-peek&logoColor=informational&color=informational)](https://www.jetbrains.com/decompiler/) 
-
--->
 
 ## About Me:
 <!-- ![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg) -->
@@ -266,7 +230,7 @@ Hobbies :
 ## My Favorite Linux Distro :
 <p align="center">
 <a href="https://archcraft.io/">
-  <img src="/Images/archcraft.png" />
+  <img src="/Images/ArchCraft.png" />
 </a>
 <p/>
 
@@ -275,15 +239,6 @@ Hobbies :
 |[![Arch Based](https://img.shields.io/badge/OS-ArchBased-05122A?style=plastic&logo=ArchLinux&color=informational&style=for-the-badge)](https://archlinux.org/) | [![Debian Based](https://img.shields.io/badge/OS-DebianBased-05122A?style=plastic&logo=debian&color=informational&style=for-the-badge)](https://www.debian.org/) | [![Fedora Based](https://img.shields.io/badge/OS-FedoraBased-05122A?style=plastic&logo=Fedora&color=informational&style=for-the-badge)](https://getfedora.org/) | [![Slackware Based](https://img.shields.io/badge/OS-SlackwareBased-05122A?style=plastic&logo=Slackware&color=informational&style=for-the-badge)](http://www.slackware.com/) |
 | -----------|:-------------|:-------------|:----------------|
 |[![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)| [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) | 
-
-
-
-
-
-
-
-
-
 
 #### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me).
 
@@ -300,19 +255,3 @@ Hobbies :
 [![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 [![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
-
-
-<!--
-**mmsaeed509/mmsaeed509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
