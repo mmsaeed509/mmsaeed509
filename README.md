@@ -156,6 +156,7 @@
 [![SavvyNik](https://yt3.ggpht.com/ytc/AKedOLSoSCjd3Z-XOmSwaQBRfF--xJubceEw7NGSODt0mA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3yaWWA9FF9OBog5U9ml68A)
 [![UTD Saudi فيصل السيف ](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
 [![Tech Talk](https://yt3.ggpht.com/ytc/AKedOLTwzfvzibolhjN7T8079z65wsO0jcT9h0TrMhASbA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCKSI_yXeN8tp7oE7YHFNDrw)
+[![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
 
 ###   *JetBrains Channels*
 
