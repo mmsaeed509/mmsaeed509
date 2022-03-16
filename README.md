@@ -264,28 +264,25 @@ Hobbies :
 
 
 ## My Favorite Linux Distro :
-
+<p align="center">
 <a href="https://archcraft.io/">
-  <img align="center" src="/Images/archcraft.png" />
+  <img src="/Images/archcraft.png" />
 </a>
+<p/>
 
 
-<!-- [![Garuda Linux](/Images/archcraft.png)](https://archcraft.io/) -->
-<br/>
-<br/>
-<br/>
 
-[![ArchLinux](https://img.shields.io/badge/OS-ArchLinux-05122A?style=plastic&logo=ArchLinux&color=informational)](https://archlinux.org/)
-[![debian](https://img.shields.io/badge/OS-debian-05122A?style=plastic&logo=debian&color=informational)](https://www.debian.org/)
-[![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational)](https://www.redhat.com/en)
-[![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/)
-[![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/)
-[![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/)
-[![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)
-[![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/)
-[![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=linux&color=informational)](https://parrotsec.org/)
-[![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)
-[![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)
+|[![Arch Based](https://img.shields.io/badge/OS-ArchBased-05122A?style=plastic&logo=ArchLinux&color=informational&style=for-the-badge)](https://archlinux.org/) | [![Debian Based](https://img.shields.io/badge/OS-DebianBased-05122A?style=plastic&logo=debian&color=informational&style=for-the-badge)](https://www.debian.org/) | [![Fedora Based](https://img.shields.io/badge/OS-FedoraBased-05122A?style=plastic&logo=Fedora&color=informational&style=for-the-badge)](https://getfedora.org/) | [![Slackware Based](https://img.shields.io/badge/OS-SlackwareBased-05122A?style=plastic&logo=Slackware&color=informational&style=for-the-badge)](http://www.slackware.com/) |
+| -----------|:-------------|:-------------|:----------------|
+|[![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)| [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) | 
+
+
+
+
+
+
+
+
 
 
 #### Now I'm using Garuda Linux. If you are using it you can contact me if you have an issue so I can help you and here's [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/), [My Social Media Accounts](#contact-me).
