@@ -126,6 +126,8 @@
 [![UTD Saudi فيصل السيف ](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
 [![Tech Talk](https://yt3.ggpht.com/ytc/AKedOLTwzfvzibolhjN7T8079z65wsO0jcT9h0TrMhASbA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCKSI_yXeN8tp7oE7YHFNDrw)
 [![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
+[![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
+[![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
 
 ###   *JetBrains Channels*
 
@@ -167,6 +169,7 @@
 [![EL BALF - الاسطى عبده الـبلــف](https://yt3.ggpht.com/3gUKyrmv33zdTHI39Nc4c985bG8UIhJT-KWu9BbxZyXiA-luhmG-qDRZn6ujcTfsaNAFIEFtAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCyzSRvqm6AVuNtYOMNYEA0Q)
 [![YAYA Gaming - العب يا نووب](https://yt3.ggpht.com/ytc/AKedOLSoUpnkvIV_CprQt6P2hyo-bxQW1vaA6uZ6gWn_Qs8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh6Vd2V_fKhmTYAfeHcOI2A)
 [![Premium League](https://yt3.ggpht.com/HOainx3zIByvlAipc0YVLRe67da0G6dxcbDyX-M72Z-SALSnWVWtcMRIn1lsvBDruySYtabL=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/PremiumLeagueTV/videos)
+[![Saba7o Korah - صباحو كورة](https://yt3.ggpht.com/-bSgg-gyXAA8AGNdJAwHkFD_-VhtCnJ1VwrPUvkZ_jXlLs74WnZ8f1L6kn6GBcydjNBoBcJT=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCAIxr4DpLZH-Iih4mlbLjiA)
 
 ## My Tools As A Black Theme 🖤
 
