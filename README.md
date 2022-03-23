@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/62524855/159055563-042ebd9c-2299-49f5-
 [![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
 [![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
 [![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
-[![EF - Linux Made Simple](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
+[![EF - Linux Made Simple](https://yt3.ggpht.com/ytc/AKedOLTgRNtVazS9dUng0bQKKG7HSLgNWcrLrFSApYAK8g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
 
 ###   *JetBrains Channels*
 
