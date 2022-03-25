@@ -144,6 +144,7 @@ https://user-images.githubusercontent.com/62524855/160064226-ba546d81-4b84-4cae-
 [![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
 [![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
 [![EF - Linux Made Simple](https://yt3.ggpht.com/ytc/AKedOLTgRNtVazS9dUng0bQKKG7HSLgNWcrLrFSApYAK8g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
+[![The Linux Foundation](https://yt3.ggpht.com/ytc/AKedOLSBqsaJopctjWq-q-9cmPjDu3sUoYKGeZTuZ7wOd0w=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 
 ###   *JetBrains Channels*
 
