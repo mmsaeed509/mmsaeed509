@@ -150,6 +150,7 @@ https://user-images.githubusercontent.com/62524855/160064226-ba546d81-4b84-4cae-
 [![ARGamez](https://yt3.ggpht.com/Iw1So2MUVIU6DSD-zK_R6UBM7DgCTX2V356IFYwrtze_4pceVHeXXcfO5v2f9DOTy4I00h7jdIA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCb5Gfvwr0sfG-tudqYc_tBg)
 [![AHW Benchmarks](https://yt3.ggpht.com/DmkfZVEGqOM4lpV_fhZvKJ5FJb3ZCRoTZOQGXEyo3saSEDj7QCMC0qs4ahvnx5uyRli3hU8pOjs=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC6xR50My4y5gDZK_OhkuKEA)
 [![Yalla League](https://yt3.ggpht.com/ytc/AKedOLS0w_8aVifUZSsoqmQME89_5qpUbc2s9IPsOLIO=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCWJWmv4WsHTYEcGCh0MI_yA)
+[![Fireship](https://yt3.ggpht.com/ytc/AKedOLR5CDv14gL4DQ7I4gxIlBMY6u-CNsq2qfeev48R2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Fireship/videos)
 
 ###   *JetBrains Channels*
 
