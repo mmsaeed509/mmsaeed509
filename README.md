@@ -188,6 +188,7 @@ https://user-images.githubusercontent.com/62524855/162592350-fba353db-7bc2-4d91-
 [![Saba7o Korah - صباحو كورة](https://yt3.ggpht.com/-bSgg-gyXAA8AGNdJAwHkFD_-VhtCnJ1VwrPUvkZ_jXlLs74WnZ8f1L6kn6GBcydjNBoBcJT=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCAIxr4DpLZH-Iih4mlbLjiA)
 [![El Hareef - الحريف](https://yt3.ggpht.com/ytc/AKedOLSiUZxr8rJ2F8BiE0dm1x1F6RibgZV1lAFx0Sk48Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNbLomUt7UkAUKOxByVKVtA)
 [![Ahmad Tawfik](https://yt3.ggpht.com/ytc/AKedOLRBS5tBVujA93gHIdJHOQVqSLT4uhH1aeR-ugveJw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVMeoYAy4w09_pQycgl7z7Q/featured)
+[![الغافري QQQ](https://yt3.ggpht.com/-qjRfF2KhPy1iZtiVMM8HgkBVTvEU-SON_tB9Mqa5eAsUvvCrX35_0WYLpIOsrpUcrJ-B0znAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCeriWoRVWMHXBbo-FNG-0GQ)
 
 ## My Tools As A Black Theme 🖤
 
