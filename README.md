@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 </br>
 
-### *Tech & Cyber Security & Network & Linux & Programming & Gaming & Setup & Review Channels*
+### *Tech & Cyber Security & Network & Linux & Programming Channels*
 
 [![Ashraf Ayad](https://yt3.ggpht.com/LdRSJTE40aIW7h3RRCUtSU3WLgqyB8v28LYJLiBc68QEKOb_VVsH66JaTPBY7PCeaJCjjH9UfvA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCpv2k4bgoPJw1NXPBljDWpw)
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
@@ -119,33 +119,36 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 [![freeCodeCamp.org](https://yt3.ggpht.com/ytc/AKedOLTtJvQ1Vfew91vemeLaLdhjOwGx3tTBLlreK_QUyA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Freecodecamp)
 [![Abdul Bari](https://yt3.ggpht.com/ytc/AKedOLQ0ZzmuKDUAnn9PnXylG707Oii6hd73U8rXbRGW=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 [![Ghassan Shobaki Computer Science Lectures](https://yt3.ggpht.com/ytc/AKedOLRziOyQOebV9TKKzlhnrOtR0vtXCcbVg3x-YQ83=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCthr5rA6EA4c1S0L2OOiygA)
+[![Linus Tech Tips](https://yt3.ggpht.com/ytc/AKedOLTK0y25C0RJiEngT1ae9mrZLXIortPD-DKQxOlRkw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
+[![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
+[![SavvyNik](https://yt3.ggpht.com/ytc/AKedOLSoSCjd3Z-XOmSwaQBRfF--xJubceEw7NGSODt0mA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3yaWWA9FF9OBog5U9ml68A)
+[![Tech Talk](https://yt3.ggpht.com/ytc/AKedOLTwzfvzibolhjN7T8079z65wsO0jcT9h0TrMhASbA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCKSI_yXeN8tp7oE7YHFNDrw)
+[![EF - Linux Made Simple](https://yt3.ggpht.com/ytc/AKedOLTgRNtVazS9dUng0bQKKG7HSLgNWcrLrFSApYAK8g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
+[![The Linux Foundation](https://yt3.ggpht.com/ytc/AKedOLSBqsaJopctjWq-q-9cmPjDu3sUoYKGeZTuZ7wOd0w=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
+[![Fireship](https://yt3.ggpht.com/ytc/AKedOLR5CDv14gL4DQ7I4gxIlBMY6u-CNsq2qfeev48R2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Fireship/videos)
+[![Computerphile](https://yt3.ggpht.com/ytc/AKedOLRIHOJ6csLm65iTTRAyXNdoiM4RVa3et7bsWLmqBg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+
+### *Gaming & Setup & Review Channels*
+[![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
+[![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
+[![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
 [![سنكرة SANKARA](https://yt3.ggpht.com/ytc/AKedOLQ341O5dYPL0sZVkhmaj22Sr7iNYMC33w1f3KFuUQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 [![Omardizer | عمرديزر](https://yt3.ggpht.com/ytc/AKedOLSHnYVS6_m1nE_EKdL8RqlADPkAc3uJh5CbUg1-gg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
 [![Arabhardware - عرب هاردوير](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
-[![Linus Tech Tips](https://yt3.ggpht.com/ytc/AKedOLTK0y25C0RJiEngT1ae9mrZLXIortPD-DKQxOlRkw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
 [![Android Basha | أندرويد باشا](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
 [![Camera Basha | كاميرا باشا](https://yt3.ggpht.com/ytc/AKedOLTnyxq2_98g8qFyiTr1XBwVBLDKDUDEN_usWWNf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCSg5-KvujMNs7nOj4WgLt3g)
 [![Gaming Basha | جيمنج باشا](https://yt3.ggpht.com/zLeFfYO3_5AIhs_Oc2duuP6PS6-cb_Mz_7HYl__62PTeMuU3F8AQmOAt8HIR743HMNonkrLB=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIWgNj19ia7sR7cxJkIKsLw)
 [![Salah G. Hamed](https://yt3.ggpht.com/4m4tlROMNFvfCASbhN0sHwLC3kdz1XAKhz75zrH1qzOTzNdKq7AdjeqCiss1JVCvY8EpSrOuaw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/SalahSelwady)
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
-[![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
 [![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
-[![SavvyNik](https://yt3.ggpht.com/ytc/AKedOLSoSCjd3Z-XOmSwaQBRfF--xJubceEw7NGSODt0mA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3yaWWA9FF9OBog5U9ml68A)
 [![UTD Saudi فيصل السيف ](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
-[![Tech Talk](https://yt3.ggpht.com/ytc/AKedOLTwzfvzibolhjN7T8079z65wsO0jcT9h0TrMhASbA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCKSI_yXeN8tp7oE7YHFNDrw)
-[![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
-[![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
-[![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
-[![EF - Linux Made Simple](https://yt3.ggpht.com/ytc/AKedOLTgRNtVazS9dUng0bQKKG7HSLgNWcrLrFSApYAK8g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
-[![The Linux Foundation](https://yt3.ggpht.com/ytc/AKedOLSBqsaJopctjWq-q-9cmPjDu3sUoYKGeZTuZ7wOd0w=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 [![ARTech](https://yt3.ggpht.com/ZWhXvV_0DwYkPnvT4eDbnnYjzMi2kT_Lh_d7tjXWdZ8sXJAXlrKeJspDaNNk3XZSR4EuRQyC=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCaTeZaCUYuwRTpyPFoLCtWA)
 [![AHW Esports](https://yt3.ggpht.com/ytc/AKedOLQ6Iuums2QHcaGkVlLYwDQaSz8GpPbDi9KHIh3X=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCmFHCQfTa4i39pyW1_agCaw)
 [![ARGamez](https://yt3.ggpht.com/Iw1So2MUVIU6DSD-zK_R6UBM7DgCTX2V356IFYwrtze_4pceVHeXXcfO5v2f9DOTy4I00h7jdIA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCb5Gfvwr0sfG-tudqYc_tBg)
 [![AHW Benchmarks](https://yt3.ggpht.com/DmkfZVEGqOM4lpV_fhZvKJ5FJb3ZCRoTZOQGXEyo3saSEDj7QCMC0qs4ahvnx5uyRli3hU8pOjs=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC6xR50My4y5gDZK_OhkuKEA)
 [![Yalla League](https://yt3.ggpht.com/ytc/AKedOLS0w_8aVifUZSsoqmQME89_5qpUbc2s9IPsOLIO=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCWJWmv4WsHTYEcGCh0MI_yA)
-[![Fireship](https://yt3.ggpht.com/ytc/AKedOLR5CDv14gL4DQ7I4gxIlBMY6u-CNsq2qfeev48R2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Fireship/videos)
 
 ###   *JetBrains Channels*
 
