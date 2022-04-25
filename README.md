@@ -167,24 +167,24 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 [![anaHr](https://yt3.ggpht.com/ytc/AKedOLSmlT3YjOGm8ULjUARe8daZkRzom1zqT5KH6iKE=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/anaHr)
 [![Khan Academy](https://yt3.ggpht.com/ytc/AKedOLTYTpeOiL8n_l9gepDh3m3vczvElfHZO-BR6oAf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/khanacademy)
 
-### *Politics and Economics Channels*
 
-[![اقتصاد الكوكب](https://yt3.ggpht.com/ytc/AKedOLTjvlaBHO_gyhx9dtAajhJrb75u_Y--YtMhfrTTzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
-[![المخبر الاقتصادي - Mokhbir Eqtisadi](https://yt3.ggpht.com/ytc/AKedOLQ4Kib6pue0ajUUgXRJiMZI6dbZt7qgLVn3EXbB_g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/MokhbirEqtisadi)
-[![Ahmed El-Beheiry_أحمد بحيري](https://yt3.ggpht.com/ytc/AKedOLQsNi7da9g2qpuKXGzpqOOygUjWrtyILMv9aJo5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AhmedBehiry)
-[![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
 
-### *FootBall & Entertainment & Others Channels*
+
+### *FootBall & Entertainment & Politics & Economics and Others Channels*
 
 [![ElKaweer - الكوير ](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 [![Mamdouh NasrAllah](https://yt3.ggpht.com/ytc/AKedOLQrZVs2tAtB3vHZyByEdT38Li-o_NI2okjGIFe3Bg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
 [![MNEU](https://yt3.ggpht.com/Y04vRk57lxiqPaiz8SXglGX_dmAweusWyYfKVti4JWS45MJKcenBJZS-vTBDLMprewIKQkK4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/NasrAllah99)
 [![Omar Abdelrahim](https://yt3.ggpht.com/ytc/AKedOLR3JfcX0JwLPG3I2bV2D8i2xo1khQpzXFwFX4pM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
-[![محمد عدنان Mohamad Adnan](https://yt3.ggpht.com/ytc/AKedOLSz8tiRdtqVlfndyVVxqJczA5qvz95fcBa22smdiQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxUPU7lI249SW_j5WgByJRA)
-[![FC Bayern Munich](https://yt3.ggpht.com/bUoqRSR8mGhGwTX0rPgsFUNAaDM2yZacgYOoSYtuv21-GXOGeDehD5glMD3S50YOsGYIvgsMWA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/fcbayern)
+[![اقتصاد الكوكب](https://yt3.ggpht.com/ytc/AKedOLTjvlaBHO_gyhx9dtAajhJrb75u_Y--YtMhfrTTzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
+[![المخبر الاقتصادي - Mokhbir Eqtisadi](https://yt3.ggpht.com/ytc/AKedOLQ4Kib6pue0ajUUgXRJiMZI6dbZt7qgLVn3EXbB_g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/MokhbirEqtisadi)
 [![German Football](https://yt3.ggpht.com/ytc/AKedOLTKQ0Ujgoi92io1hNgN56iSvZmyM_bYCxTwqKy2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/GermanFootball)
 [![Bundesliga](https://yt3.ggpht.com/ytc/AKedOLQRRttxgURK4xqE0A-GcFZlEhxL5skaKlYLjZtOyg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/bundesligatv)
 [![beIN SPORTS](https://yt3.ggpht.com/ytc/AKedOLT3ruHgMaBrdKn9IJwUZQen-8BlZeOy4J_2zG4gOw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/beINSPORTS/channels)
+[![Ahmed El-Beheiry_أحمد بحيري](https://yt3.ggpht.com/ytc/AKedOLQsNi7da9g2qpuKXGzpqOOygUjWrtyILMv9aJo5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AhmedBehiry)
+[![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
+[![محمد عدنان Mohamad Adnan](https://yt3.ggpht.com/ytc/AKedOLSz8tiRdtqVlfndyVVxqJczA5qvz95fcBa22smdiQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxUPU7lI249SW_j5WgByJRA)
+[![FC Bayern Munich](https://yt3.ggpht.com/bUoqRSR8mGhGwTX0rPgsFUNAaDM2yZacgYOoSYtuv21-GXOGeDehD5glMD3S50YOsGYIvgsMWA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/fcbayern)
 [![AL HASHIM - حسن هاشم](https://yt3.ggpht.com/ytc/AKedOLRHEPdYBD51TTzHSz136-MfO561azOeXisW-7zA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCN1Lyow-3R4jtN-cddDd_eQ)
 [![AJ+ كبريت](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-4KnPMmZzwAzW7SbVATUZQ)
 [![Elplatform - البلاتفورم](https://yt3.ggpht.com/ytc/AKedOLSujrhOtYxqMPmw-aFK_x5qnAkMA49hhVI_F1fV=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCO6ST5lJ_wsVIM_6cBiqUvw)
