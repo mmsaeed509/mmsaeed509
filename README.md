@@ -204,21 +204,11 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 
 ## [My Setup](/MySetup/README.md)
 
-![](/Images/OzozSetup.jpg)
+<!-- ![](/Images/OzozSetup.jpg) -->
 
 ## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
 
-![](/Images/Xmonad.webp)
 
-![](/Images/desrec.webp)
-
-![](/Images/Xmonad_7.png)
-
-![](/Images/KDE_1.png)
-
-![](/Images/KDE_2.png)
-
-![](/Images/Xmonad-Final.png)
 
 ## Games & Hobbies :
 Games :
