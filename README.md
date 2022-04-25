@@ -204,7 +204,7 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 
 ## [My Setup](/MySetup/README.md)
 
-![](/Images/setup3.jpg)
+![](/Images/setup.jpg)
 
 ## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
 ![](/gif/desktop.gif)
