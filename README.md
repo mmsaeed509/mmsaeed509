@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
    <summary>More About Me</summary>
   <h1 align="center">More About Me  </h1>
 
-![](/Images/ozil-Setup.jpg)
+![](/Images/setup1.jpg)
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 </br>
@@ -204,10 +204,10 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 
 ## [My Setup](/MySetup/README.md)
 
-<!-- ![](/Images/OzozSetup.jpg) -->
+![](/Images/setup3.jpg)
 
 ## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
-
+![](/Images/mainDesktop.png)
 
 
 ## Games & Hobbies :
