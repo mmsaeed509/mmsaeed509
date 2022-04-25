@@ -128,6 +128,7 @@ https://user-images.githubusercontent.com/62524855/162852927-1ebb739c-4088-441a-
 [![The Linux Foundation](https://yt3.ggpht.com/ytc/AKedOLSBqsaJopctjWq-q-9cmPjDu3sUoYKGeZTuZ7wOd0w=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 [![Fireship](https://yt3.ggpht.com/ytc/AKedOLR5CDv14gL4DQ7I4gxIlBMY6u-CNsq2qfeev48R2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Fireship/videos)
 [![Computerphile](https://yt3.ggpht.com/ytc/AKedOLRIHOJ6csLm65iTTRAyXNdoiM4RVa3et7bsWLmqBg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+[![Clear Code](https://yt3.ggpht.com/aQ-U3cm79DzvECgOWdfZz6PIbf3xPMe3ZfCf5McgALiBUXJmYcDQPBavxjqHE4GOLLobsOIVIg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ)
 
 ### *Gaming & Setup & Review Channels*
 [![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
