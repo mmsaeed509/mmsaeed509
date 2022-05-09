@@ -22,7 +22,6 @@
 <!--  My LinuxDesktopSetup  -->
 
 
-https://user-images.githubusercontent.com/62524855/166927996-8023adfe-0253-4b8f-89d7-413f42af143c.mp4
 
 
 <!--  My LinuxDesktopSetup  -->
