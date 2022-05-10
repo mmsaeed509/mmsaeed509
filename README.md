@@ -101,7 +101,7 @@
 <!-- START OF MORE ABOUT ME -->
 
 <details>
-   <summary>More About Me</summary>
+   <summary><h3> More About Me </h3></summary>
   <h1 align="center">More About Me  </h1>
 
 ![](/gif/meSetup.gif)
