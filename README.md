@@ -211,7 +211,7 @@
 ![](/gif/setup.gif)
 
 ## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
-![](/gif/desktop.gif)
+![](/gif/LinuxDesktop.gif)
 
 
 ## Games & Hobbies :
