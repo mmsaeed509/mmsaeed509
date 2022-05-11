@@ -135,12 +135,14 @@
 [![https://www.youtube.com/user/TheYoctoProject](https://yt3.ggpht.com/ytc/AKedOLRfNp21jIjDtIMDjZ_eFh5GbjMUD8Es1ml9r12M=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/TheYoctoProject)
 
 ### *Gaming & Setup & Review Channels*
+
 [![Jarrod'sTech](https://yt3.ggpht.com/ytc/AKedOLQHi6TAHmHUwAqdCwj_3688KLEHkXxYEhUvnuv1Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC2Rzju32yQPkQ7oIhmeuLwg)
 [![Tech Quotes](https://yt3.ggpht.com/ytc/AKedOLQV1IhA89LrDlUyXcVLOhyYHanHLIkG0p-SsKaN=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCsAPtCbNnz436DaAr9S3jUw)
 [![EPIC HARDWARE](https://yt3.ggpht.com/ytc/AKedOLT6N1RBKVw9lwigR2RF7z59F9XSwtDmlx7idVV8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-MKe5ZS6BoXYfSIyP8puCg/featured)
 [![سنكرة SANKARA](https://yt3.ggpht.com/ytc/AKedOLQ341O5dYPL0sZVkhmaj22Sr7iNYMC33w1f3KFuUQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNR623NFV3DbWpPTrA8cI_A)
 [![Omardizer | عمرديزر](https://yt3.ggpht.com/ytc/AKedOLSHnYVS6_m1nE_EKdL8RqlADPkAc3uJh5CbUg1-gg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC1FYFqgdW_1LueJTmXn-8cg)
 [![Matthew Moniz](https://yt3.ggpht.com/ytc/AKedOLT6qjOpmSn_Ynm9GpnWYBKyjEcpyjNS8P_B6qvvTRM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVlMUh4WsDQvOxCJJXmWwdw)
+[![D7MAS](https://yt3.ggpht.com/ytc/AKedOLT-UnUemVOnYosajnP-1NRIGEHRvD0CmGbH6rRu=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/SgtDhmas/channels)
 [![Arabhardware - عرب هاردوير](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar | كمبوطر ](https://yt3.ggpht.com/fsy0MPpnKZE2xBSrOJTbhtdOyBTGX0sq8gRmfE2CmXluga3WLI_FiIhyx4DMsyOXbQSUJEnQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
@@ -173,10 +175,10 @@
 [![Khan Academy](https://yt3.ggpht.com/ytc/AKedOLTYTpeOiL8n_l9gepDh3m3vczvElfHZO-BR6oAf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/khanacademy)
 
 
+### *FootBall & Entertainment & Economics and Others Channels*
 
-
-### *FootBall & Entertainment & Politics & Economics and Others Channels*
-
+[![INNA](https://yt3.ggpht.com/TD2TM2BSF2OfaDqsvSHxulpvfQ3xy5EsQ_9tg-a9Quni2Aw0lFCfJI6MjKT3jrO6ms-0k0n8ZDw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Inna/channels)
+[![D7CAR](https://yt3.ggpht.com/ytc/AKedOLRtKz-dCpEF91uuzhn7RrYNHWETvcFzOwvK6e21=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjqr3uXUOoOCqzbzG4Ng_Ag)
 [![ElKaweer - الكوير ](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
 [![Mamdouh NasrAllah](https://yt3.ggpht.com/ytc/AKedOLQrZVs2tAtB3vHZyByEdT38Li-o_NI2okjGIFe3Bg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
 [![MNEU](https://yt3.ggpht.com/Y04vRk57lxiqPaiz8SXglGX_dmAweusWyYfKVti4JWS45MJKcenBJZS-vTBDLMprewIKQkK4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/NasrAllah99)
