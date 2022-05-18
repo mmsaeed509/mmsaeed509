@@ -21,7 +21,7 @@
 
 <!--  My LinuxDesktopSetup  -->
 
-[![My-Linux-Setup](/gif/My-Linux-Setup.gif)](https://drive.google.com/file/d/1oAnRYYdb1zVIZLnppeKMABg10MFjrGJ6/view?usp=sharing)
+[![My-Linux-Setup](/gif/ALL.gif)](https://drive.google.com/file/d/1oAnRYYdb1zVIZLnppeKMABg10MFjrGJ6/view?usp=sharing)
 
 
 <!--  My LinuxDesktopSetup  -->
