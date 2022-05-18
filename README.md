@@ -217,7 +217,7 @@
 
 ![](/gif/setup.gif)
 
-## [My Desktop](https://github.com/mmsaeed509/My-Linux-Customization/tree/main/Images)
+## [My Desktop](https://github.com/mmsaeed509/bspwm-dots)
 ![](/gif/ALLTHEMES.gif)
 
 
