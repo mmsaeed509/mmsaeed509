@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
 
+<!-- ###########################################  ########################################### -->
+
 [![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=plastic&logo=Discord&color=informational)](https://github.com/mmsaeed509/mmsaeed509/blob/f1a8d5798f105d7fb752b6267704c08376a2c0f5/discordAcc.md)
 [![Linux](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://gitlab.com/mmsaeed509)
 
+<!-- ###########################################  ########################################### -->
 
 [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
@@ -25,6 +28,10 @@
 
 
 <!--  My LinuxDesktopSetup  -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- Github Stats -->
 
 ### Github Stats:
 <!--
@@ -44,6 +51,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmsaeed509&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27)](https://git.io/streak-stats)
 
+<!-- Github Stats -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- Important Projects -->
+
 ### Important Projects
             
 <a href="https://github.com/mmsaeed509/bspwm-dots">
@@ -58,8 +71,11 @@
 </p>
 
 
-<!--  -->
+<!-- Important Projects -->
 
+<!-- ###########################################  ########################################### -->
+
+<!-- Skills ( Languages & Tools ) -->
 
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
@@ -91,8 +107,13 @@
 [![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
 [![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
 
+<!-- Skills ( Languages & Tools ) -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- About Me -->
+
 ## About Me:
-<!-- ![IMG_20210805_181827](https://github.com/mmsaeed509/mmsaeed509/blob/main/Images/ozil-Setup.jpg) -->
 
 ### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
 * I’m currently learning PenTesting, Reverse Engineering, Linux Development.
@@ -256,6 +277,9 @@ Hobbies :
 
 <!-- END OF MORE ABOUT ME -->
 
+<!-- ###########################################  ########################################### -->
+
+<!--  -->
 
 ## My Favorite Linux Distro :
 <p align="center">
@@ -275,7 +299,11 @@ Hobbies :
 
 ### Now I'm using [ArchCraft](https://archcraft.io/). If you are using it you can contact me if you have an issue so I can help you and here's [My Social Media Accounts](#contact-me).
 
-<!-- # More About Me: -->
+<!-- More About Me: -->
+
+<!-- ###########################################  ########################################### -->
+
+<!-- contact me -->
 
 ## contact me
 [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
@@ -288,3 +316,7 @@ Hobbies :
 [![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
 [![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
+
+<!-- contact me -->
+
+<!-- ########################################### END ########################################### -->
