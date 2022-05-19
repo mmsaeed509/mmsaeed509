@@ -46,8 +46,8 @@
 
 ### Important Projects
             
-<a href="https://github.com/mmsaeed509/My-Linux-Customization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=My-Linux-Customization&layout=compact&theme=tokyonight" />
+<a href="https://github.com/mmsaeed509/bspwm-dots">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Ransomware">
