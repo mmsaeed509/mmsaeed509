@@ -136,6 +136,7 @@
 [![Ashraf Ayad](https://yt3.ggpht.com/LdRSJTE40aIW7h3RRCUtSU3WLgqyB8v28LYJLiBc68QEKOb_VVsH66JaTPBY7PCeaJCjjH9UfvA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCpv2k4bgoPJw1NXPBljDWpw)
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
 [![NetworkChuck](https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NetworkChuck)
+[![devaslife](https://yt3.ggpht.com/ytc/AKedOLRXjEoKDXoveL-JeNEFuutP47uaXuuN2xOxl18_7Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/devaslife/videos)
 [![Hack The Box](https://yt3.ggpht.com/ytc/AKedOLQVcvnIgUT0yEI8k4Ef433JqCDpF_vZioVg2rbYEg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCi67lRCd5qpaHwSXNJisuRQ)
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
 [![DistroTube](https://yt3.ggpht.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
