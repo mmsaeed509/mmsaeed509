@@ -144,6 +144,7 @@
 [![John Hammond](https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JohnHammond010)
 [![DistroTube](https://yt3.ggpht.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
 [![Hak5](https://yt3.ggpht.com/ytc/AKedOLQLYwUybycVx47iqpJ-AbSCPACIltHBWax5J8-Uzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+[![Null Byte](https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NullByteWHT)
 [![ALFA Network Inc](https://yt3.ggpht.com/ytc/AKedOLQqCL-n54irXAaYTl_fAFJzeygWY-MrD4qN61Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/alfanetworkinc)
 [![Programming with Mosh](https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/programmingwithmosh)
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
