@@ -51,8 +51,14 @@
 </p>
 
 <!--  -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmsaeed509&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27)](https://git.io/streak-stats)
+<p align="center">
+  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mmsaeed509&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+  
+  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only"/>
+  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
+  
+</p>
 
 <!-- Github Stats -->
 
@@ -327,7 +333,6 @@ Hobbies :
 
 <!-- contact me -->
 
-![Snake Light](https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only)
-![Snake Dark](https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only)
+
 
 <!-- ########################################### END ########################################### -->
