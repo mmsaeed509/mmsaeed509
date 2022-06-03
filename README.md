@@ -327,4 +327,7 @@ Hobbies :
 
 <!-- contact me -->
 
+![Snake Light](https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only)
+![Snake Dark](https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only)
+
 <!-- ########################################### END ########################################### -->
