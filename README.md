@@ -298,7 +298,7 @@ Hobbies :
 ## My Favorite Linux Distro :
 <p align="center">
 <a href="https://archcraft.io/">
-  <img src="/Images/ArchCraft.png" />
+  <img src="/Images/Archcraft.png" />
 </a>
 <p/>
 
