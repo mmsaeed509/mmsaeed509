@@ -24,9 +24,11 @@
 
 <!--  My LinuxDesktopSetup  -->
 
+[![Demo](gif/DEMO.gif)](https://drive.google.com/file/d/1ia3OG3ZWhcE1rNqaud7cfaXRYcX-wKNx/view?usp=sharing)
+
 <p align="center">
 <a href="https://drive.google.com/file/d/1ia3OG3ZWhcE1rNqaud7cfaXRYcX-wKNx/view?usp=sharing">
-  <img src="gif/ALL.gif" />
+  <img src="gif/DEMO.gif" />
 </a>
 <p/>
 
