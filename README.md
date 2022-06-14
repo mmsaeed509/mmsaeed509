@@ -69,7 +69,7 @@
 ### Important Projects
             
 <a href="https://github.com/mmsaeed509/bspwm-dots">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ozofiles&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
 </a>
             &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Ransomware">
