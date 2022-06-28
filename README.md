@@ -253,10 +253,12 @@
 
 ![](/gif/setup.gif)
 
+<!-- 
 ## [My Desktop](https://github.com/mmsaeed509/bspwm-dots)
 ![](/gif/ALLTHEMES.gif)
-
-
+ -->
+ 
+<!-- 
 ## Games & Hobbies :
 Games :
 
@@ -275,8 +277,9 @@ Hobbies :
 ![sport](https://img.icons8.com/color/48/000000/running--v1.png)
 ![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
 ![pc building](https://img.icons8.com/fluency/48/000000/pc-on-desk.png)
-
-
+ -->
+ 
+<!-- 
 ## Favorite National Team & Team :      
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **Germany 🇩🇪**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**FC Bayern München ❤️❤️**
@@ -286,7 +289,8 @@ Hobbies :
        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img height="135" src="/Images/fcbayern.png" alt="FC Bayern München ❤️❤️" />
 </p>
-
+ -->
+ 
 </details>
 
 
