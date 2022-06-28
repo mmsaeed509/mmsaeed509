@@ -3,12 +3,12 @@
 
 <img align="right" width="100" height="100" src="/Images/OZIL.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=informational&style=plastic" alt="mmsaeed509" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE" alt="mmsaeed509" /> </p> 
 
 <!-- ###########################################  ########################################### -->
 
-[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=plastic&logo=Discord&color=informational)](https://discordapp.com/users/528010173403365377)
-[![Linux](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=plastic&logo=gitlab&logoColor=informational&color=informational)](https://gitlab.com/mmsaeed509)
+[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
+[![Linux](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
 
 <!-- ###########################################  ########################################### -->
 
@@ -16,11 +16,11 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
-<!-- 
+
 [![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
-[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509) -->
+[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 
 <!--  My LinuxDesktopSetup  -->
 
