@@ -334,7 +334,7 @@ Hobbies :
 [![tewtter](/Images/old-twitter-logo.png)](https://twitter.com/Mahmoudzil4)
 [![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5/?fbclid=IwAR0Rd44zZ5v5k6AYz5sgWESonJiUTbAza0oYKxxJsXieK8Muvia59vu-0io)
 [![gmail](/Images/gmail--v1.png)](https://github.com/mmsaeed509/mmsaeed509/blob/79a3c3230d9a432559ed6d854edf9f82b8f08005/mail.md)
-[![Discord](/Images/discord-logo.png)](https://github.com/mmsaeed509/mmsaeed509/blob/9db1dd287170134273978d20595d3ab671323bd2/discordAcc.md)
+[![Discord](/Images/discord-logo.png)](https://discordapp.com/users/528010173403365377)
 
 <!-- contact me -->
 
