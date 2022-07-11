@@ -154,6 +154,7 @@
 [![Null Byte](https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NullByteWHT)
 [![ALFA Network Inc](https://yt3.ggpht.com/ytc/AKedOLQqCL-n54irXAaYTl_fAFJzeygWY-MrD4qN61Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/alfanetworkinc)
 [![Programming with Mosh](https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/programmingwithmosh)
+[![Digi-Key](https://yt3.ggpht.com/ytc/AKedOLQnH_NCy1GcnVfa8y6_nubKuSKtc0kQRzueYzF2NVs=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/digikey)
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
 [![TechHut](https://yt3.ggpht.com/TUoF-6QCUIKy6XgFtMG5FWi5FLVhtaUPtTOLvE7Ca3eJif1_RKBci07fKK-QvKxhC0HALEBH7Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/TechHutHD)
 [![freeCodeCamp.org](https://yt3.ggpht.com/ytc/AKedOLTtJvQ1Vfew91vemeLaLdhjOwGx3tTBLlreK_QUyA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Freecodecamp)
