@@ -162,6 +162,7 @@
 [![Abdul Bari](https://yt3.ggpht.com/ytc/AKedOLQ0ZzmuKDUAnn9PnXylG707Oii6hd73U8rXbRGW=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 [![Ghassan Shobaki Computer Science Lectures](https://yt3.ggpht.com/ytc/AKedOLRziOyQOebV9TKKzlhnrOtR0vtXCcbVg3x-YQ83=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCthr5rA6EA4c1S0L2OOiygA)
 [![Average Linux User](https://yt3.ggpht.com/WNCJOLrzF8mWbsdM9dPRFVIrzbTWcExCNZpDv8mxpdOMaaUsF5cCzyENuFL9-IMHYYbPL2Joh84=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AverageLinuxUser)
+[![Black Hat](https://yt3.ggpht.com/ytc/AMLnZu8E419YFIbmnLU70N6su5frmh1lV64CXrJ03gEQcA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/BlackHatOfficialYT)
 [![Linus Tech Tips](https://yt3.ggpht.com/ytc/AKedOLTK0y25C0RJiEngT1ae9mrZLXIortPD-DKQxOlRkw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 [![ExplainingComputers](https://yt3.ggpht.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
 [![SavvyNik](https://yt3.ggpht.com/ytc/AKedOLSoSCjd3Z-XOmSwaQBRfF--xJubceEw7NGSODt0mA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3yaWWA9FF9OBog5U9ml68A)
