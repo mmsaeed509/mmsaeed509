@@ -25,7 +25,7 @@
 <!--  My LinuxDesktopSetup  -->
 
 <p align="center">
-<a href="https://drive.google.com/file/d/17AhFlv3E8t-pNak883Eoda97DicuXHw6/view?usp=sharing">
+<a href="https://drive.google.com/file/d/13eTU5r3PNTF4fCGGu9KhWSOVNlbP1Vti/view?usp=sharing">
   <img src="gif/view.gif" />
 </a>
 <p/>
