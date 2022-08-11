@@ -14,6 +14,7 @@
 
 [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
+[![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
 
