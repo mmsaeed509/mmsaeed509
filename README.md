@@ -67,7 +67,7 @@
 
 <!-- Important Projects -->
 
-### Important Projects
+<h3 align="center"> Important Projects </h3>
             
 <a href="https://github.com/mmsaeed509/bspwm-dots">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
