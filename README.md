@@ -37,7 +37,7 @@
 
 <!-- Github Stats -->
 
-### Github Stats:
+<h3 align="center"> Github Stats </h3>
 <!--
             &nbsp; -> space
             &emsp; -> 4x(&nbsp;)
