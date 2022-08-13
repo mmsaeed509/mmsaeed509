@@ -76,7 +76,14 @@
 <a href="https://github.com/mmsaeed509/Ransomware">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
 </a>  
-            
+<br/><br/><br/>
+<a href="https://github.com/Exodia-OS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=.github&layout=compact&theme=tokyonight" />
+</a>  
+ &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/Exodia-OS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-bspwm-Predator&layout=compact&theme=tokyonight" />
+</a>  
             
 </p>
 
