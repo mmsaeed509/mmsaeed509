@@ -201,6 +201,7 @@
 [![Salah G. Hamed](https://yt3.ggpht.com/4m4tlROMNFvfCASbhN0sHwLC3kdz1XAKhz75zrH1qzOTzNdKq7AdjeqCiss1JVCvY8EpSrOuaw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/SalahSelwady)
 [![Marques Brownlee](https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/mkbhd/videos)
 [![NOVA LAUNCHER SETUP](https://yt3.ggpht.com/ytc/AMLnZu9fEAT_sRW0RPtPrwE6EB4kqL94uxwZCtTI4tRNyXM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NOVALAUNCHERSETUP)
+[![THE NOVA SETUP](https://yt3.ggpht.com/XgIWj3la43-YvFeSmLtUSWpqJewrIKB43bA-dImp73KbM8aMqbChkwhWK_iTinco6eLfjuT5vw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCG8P7GxIFN7USPAjMRPP_Ig)
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 [![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
 [![UTD Saudi فيصل السيف ](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
