@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1cKfy3dy0-0WJcNQbN4Q7b5aJVCiM-NfV/view?usp=sharing">
-  <img src="gif/themes.gif" />
+  <img src="gif/workflow.gif" />
 </a>
 <p/>
 
