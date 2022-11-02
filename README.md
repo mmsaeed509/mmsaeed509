@@ -343,7 +343,9 @@ Hobbies :
 <!-- contact me -->
 
 ## contact me
-[My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/)
+<!--
+ [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/) 
+-->
 
 [![facebook](/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
 [![facbook](/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
