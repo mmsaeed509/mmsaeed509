@@ -13,8 +13,8 @@
 <img src="gif/Wolf.gif" alt="rice" align="right" width="250px" height="250">
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
-[![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
-[![gitlab](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
+[![Discord](https://img.shields.io/badge/discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
+[![gitlab](https://img.shields.io/badge/mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=FOR-THE-BADGE&color=purple)](https://www.reddit.com/user/mmsaeed509)
  - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
@@ -23,7 +23,7 @@
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
  - [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
- - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/), A highly customized arch-based distro For All Cybersecurity fields, and it comes with other special editions as well like Predator edition For Acer Predator Laptops that come with PredatorSense pre-installed to control the CPU/GPU Fan and Keyboard RGB 
+ - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/), A highly customized arch-based distro For All Cybersecurity fields, and it comes with other special editions as well  
  - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), Reverse Engineering and Linux Development.
  - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* ***IT Department***
  - [Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 reach me](#contact-me).
