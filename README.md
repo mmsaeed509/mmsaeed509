@@ -8,7 +8,7 @@
 
 ![](/gif/00xWolf.gif)
 
-<h3 align="center">Hi there 👋 I'm Mahmoud ,You can call me Özil<br /> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
+<h3 align="center">Hi there 👋 I'm Mahmoud, You can call me Özil<br /> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
 
 <img src="gif/Wolf.gif" alt="rice" align="right" width="250px" height="250">
 
