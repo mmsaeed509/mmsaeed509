@@ -1,39 +1,35 @@
-<!-- <h2 align="center">Hi there 👋 I'm Mahmoud Mohamed ,You can call me Özil<br /> I'm Cyber Security Researcher/Enthusiast </h3> -->
-
-![](/gif/00xWolf.gif)
-<img align="right" width="100" height="100" src="/Images/00xWolf.png">
-
+<!-- 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE" alt="mmsaeed509" /> </p> 
 
-<!-- ###########################################  ########################################### -->
+[![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 
+-->
+
+![](/gif/00xWolf.gif)
+
+<h3 align="center">Hi there 👋 I'm Mahmoud ,You can call me Özil<br /> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
+
+<img src="gif/Wolf.gif" alt="rice" align="right" width="250px" height="250">
+
+ - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
 [![Discord](https://img.shields.io/badge/discord-Discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
-[![Linux](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
-
-<!-- ###########################################  ########################################### -->
-
-[![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
+[![gitlab](https://img.shields.io/badge/gitlab-mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
+[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=FOR-THE-BADGE&color=purple)](https://www.reddit.com/user/mmsaeed509)
+ - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
 [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMahmoudzil4)](https://twitter.com/Mahmoudzil4)
-
-[![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
-[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
+ - [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
-[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
+ - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/), A highly customized arch-based distro For All Cybersecurity fields, and it comes with other special editions as well like Predator edition For Acer Predator Laptops that come with PredatorSense pre-installed to control the CPU/GPU Fan and Keyboard RGB 
+ - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), Reverse Engineering and Linux Development.
+ - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* ***IT Department***
+ - [Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 reach me](#contact-me).
 
-<!--  My LinuxDesktopSetup  -->
+</br>
 
-<p align="center">
-<a href="https://youtu.be/4u6y80lHn4M">
-  <img src="gif/github.gif" />
-</a>
-<p/>
-
-<!--  My LinuxDesktopSetup  -->
-
-<!-- ###########################################  ########################################### -->
 
 <!-- Github Stats -->
 
@@ -87,8 +83,24 @@
             
 </p>
 
+<!--  My LinuxDesktopSetup  -->
+
+<p align="center">
+<a href="https://youtu.be/4u6y80lHn4M">
+  <img src="gif/github.gif" />
+</a>
+<p/>
+
+<!--  My LinuxDesktopSetup  -->
 
 <!-- Important Projects -->
+
+
+
+
+<!-- ###########################################  ########################################### -->
+
+
 
 <!-- ###########################################  ########################################### -->
 
@@ -128,15 +140,7 @@
 
 <!-- ###########################################  ########################################### -->
 
-<!-- About Me -->
 
-## About Me:
-
-### I'm an IT student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Cyber Security, And Computer Hardware. 
-* I’m currently learning PenTesting, Reverse Engineering, Linux Development.
-* 💬 Ask me about Cyber Security, Linux, Network.
-* [My Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My_Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 How to reach me](#contact-me).
-<!-- START OF MORE ABOUT ME -->
 
 <details>
    <summary><h2> More About Me </h2></summary>
@@ -327,12 +331,16 @@ Hobbies :
 | -----------|:-------------|:-------------|:----------------|:----------|
 |[![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)| [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) |[![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) </br> [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)|
 
+<!--  
+
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1cKfy3dy0-0WJcNQbN4Q7b5aJVCiM-NfV/view?usp=sharing">
   <img src="gif/ExodiaPredator.gif" />
 </a>
 <p/>
+
+-->
 
 ### Now I'm using [Exodia OS Predator Edition](https://exodia-os.github.io/exodia-website/). If you are using it you can contact me if you have an issue so I can help you and here's [My Social Media Accounts](#contact-me).
 
