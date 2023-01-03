@@ -6,7 +6,7 @@
 
 -->
 
-![](/gif/hacker_2.gif) ![](/gif/hacker.gif)
+![](/gif/hacker_2.gif)
 
 <h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
 
