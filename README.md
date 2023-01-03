@@ -27,8 +27,7 @@
  - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/)  
  - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), Reverse Engineering and Linux Dev.
  - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* ***IT Department***
- - [Credly Profile](https://www.credly.com/users/mahmoud-ahmed.f374e933), [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf)
- - 🏆 __ctf Player [mmsaeed509](https://cybertalents.com/dashboard)__, [📫 reach me](#contact-me).
+ - [Credly](https://www.credly.com/users/mahmoud-ahmed.f374e933), [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf) [🏆ctf Player](https://cybertalents.com/dashboard), [📫 reach me](#contact-me).
 
 </br>
 
