@@ -8,9 +8,11 @@
 
 ![](/gif/00xWolf.gif)
 
-<h3 align="center">Hi there 👋 I'm Mahmoud, You can call me Özil<br /> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
+<h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br /> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
 
-<img src="gif/Wolf.gif" alt="rice" align="right" width="250px" height="250">
+</br>
+
+<img src="gif/Wolf.gif" alt="wolf" align="right" width="250px" height="250">
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
 [![Discord](https://img.shields.io/badge/discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
@@ -19,7 +21,7 @@
 - [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/link/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/comment/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
  - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
-[![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509) | | 
+[![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 - [![Twitter: Mahmoudzil4](https://img.shields.io/twitter/follow/Mahmoudzil4?style=social)](https://twitter.com/Mahmoudzil4)
