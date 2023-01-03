@@ -6,7 +6,10 @@
 
 -->
 
-![](/gif/00xWolf.gif)
+<!-- ![](/gif/00xWolf.gif) -->
+
+<img src="gif/00xWolf.gif" alt="00xWolf">
+
 
 <h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
 
