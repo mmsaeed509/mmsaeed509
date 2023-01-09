@@ -98,13 +98,14 @@
             &nbsp; -> space
             &emsp; -> 4x(&nbsp;)
 -->
-<p align="left">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=mmsaeed509&layout=compact&theme=tokyonight" alt="Ozil's top language stats" />
-</p>
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Ozil's stats" />
+</p>
+
+<p align="left">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmsaeed509&count_private=true&include_all_commits=true&theme=tokyonight" alt="Ozil's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=mmsaeed509&layout=compact&theme=tokyonight" alt="Ozil's top language stats" />
 </p>
 
 <!--  -->
