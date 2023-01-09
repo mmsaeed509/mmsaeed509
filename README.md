@@ -41,41 +41,41 @@
 <h3 align="center"> Important Projects/Repos </h3>
             
 <a href="https://github.com/mmsaeed509/bspwm-dots">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
 <a href="https://github.com/mmsaeed509/Ransomware">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
 </a>  
 
 <br/>
 
 <a href="https://github.com/Exodia-OS/exodia-home-ISO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
 </a>  
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/Exodia-OS/exodia-wireless-ISO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-wireless-ISO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-wireless-ISO&layout=compact&theme=tokyonight" />
 </a>  
 
 <br/>
 
 <a href="https://github.com/mmsaeed509/acer-predator-turbo-and-rgb-keyboard-linux-module">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
 </a>  
  &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Linux-PredatorSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Linux-PredatorSense&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Linux-PredatorSense&layout=compact&theme=tokyonight" />
 </a>  
 
 <br/>
 
 <a href="https://github.com/mmsaeed509/Information-and-Computer-Network-Security-Cybersecurity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Information-and-Computer-Network-Security-Cybersecurity&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Information-and-Computer-Network-Security-Cybersecurity&layout=compact&theme=tokyonight" />
 </a>  
  &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Myscripts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
 </a>  
 
 </p>
