@@ -8,12 +8,11 @@
 
 <!-- ![](/gif/00xWolf.gif) -->
 
-<img src="gif/00xWolf.gif" alt="00xWolf">
+<img src="gif/00x__Wolf.gif" alt="00xWolf">
 
 
 <h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a Jr PenTester, Linux Enthusiast and open source contributor </h3>
 
-<br/>
 
 <img src="gif/Wolf.gif" alt="wolf" align="right" width="250px" height="250">
 
