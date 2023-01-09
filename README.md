@@ -11,7 +11,7 @@
 <img src="gif/00xWolf.gif" alt="00xWolf">
 
 
-<h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a junior Penetration Tester, Linux Enthusiast and open source contributor </h3>
+<h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a Jr PenTester, Linux Enthusiast and open source contributor </h3>
 
 <br/>
 
@@ -36,6 +36,51 @@
 
 </br>
 
+<!-- Important Projects/Repos -->
+
+<h3 align="center"> Important Projects/Repos </h3>
+            
+<a href="https://github.com/mmsaeed509/bspwm-dots">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
+</a>
+            &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/mmsaeed509/Ransomware">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
+</a>  
+
+<br/><br/><br/>
+
+<a href="https://github.com/Exodia-OS/exodia-home-ISO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
+</a>  
+ &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/Exodia-OS/exodia-wireless-ISO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-wireless-ISO&layout=compact&theme=tokyonight" />
+</a>  
+
+<br/><br/><br/>
+
+<a href="https://github.com/mmsaeed509/acer-predator-turbo-and-rgb-keyboard-linux-module">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
+</a>  
+ &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/mmsaeed509/Myscripts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
+</a>  
+            
+</p>
+
+<!--  My LinuxDesktopSetup  -->
+
+<h3 align="center"> Exodia OS </h3>
+
+<p align="center">
+<a href="https://youtu.be/4u6y80lHn4M">
+  <img src="gif/github.gif" />
+</a>
+<p/>
+
+<!--  My LinuxDesktopSetup  -->
 
 <!-- Github Stats -->
 
@@ -66,38 +111,6 @@
 <!-- Github Stats -->
 
 <!-- ###########################################  ########################################### -->
-
-<!-- Important Projects -->
-
-<h3 align="center"> Important Projects </h3>
-            
-<a href="https://github.com/mmsaeed509/bspwm-dots">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
-</a>
-            &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/mmsaeed509/Ransomware">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
-</a>  
-<br/><br/><br/>
-<a href="https://github.com/Exodia-OS/exodia-home-ISO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
-</a>  
- &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/Exodia-OS/exodia-wireless-ISO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-wireless-ISO&layout=compact&theme=tokyonight" />
-</a>  
-            
-</p>
-
-<!--  My LinuxDesktopSetup  -->
-
-<p align="center">
-<a href="https://youtu.be/4u6y80lHn4M">
-  <img src="gif/github.gif" />
-</a>
-<p/>
-
-<!--  My LinuxDesktopSetup  -->
 
 <!-- Important Projects -->
 
