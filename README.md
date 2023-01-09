@@ -64,8 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
 </a>  
  &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/mmsaeed509/Linux-PredatorSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=Linux-PredatorSense&layout=compact&theme=tokyonight" />
+<a href="https://github.com/mmsaeed509/acer-predator-turbo-and-rgb-keyboard-linux-module">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
 </a>  
 
 <br/>
