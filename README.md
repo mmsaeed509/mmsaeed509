@@ -11,7 +11,7 @@
 <img src="gif/00xWolf_2.gif" alt="00xWolf">
 
 
-<h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a Jr PenTester, Linux Enthusiast and open source contributor </h3>
+<h3 align="center">Hi there I'm Mahmoud, You can call me Özil <br/> I'm a Jr. PenTester, Linux Enthusiast and open source contributor </h3>
 
 
 <img src="gif/Wolf.gif" alt="wolf" align="right" width="250px" height="250">
