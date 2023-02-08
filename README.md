@@ -213,8 +213,8 @@
 [![The Linux Foundation](https://yt3.ggpht.com/ytc/AKedOLSBqsaJopctjWq-q-9cmPjDu3sUoYKGeZTuZ7wOd0w=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ)
 [![Fireship](https://yt3.ggpht.com/ytc/AKedOLR5CDv14gL4DQ7I4gxIlBMY6u-CNsq2qfeev48R2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Fireship/videos)
 [![Computerphile](https://yt3.ggpht.com/ytc/AKedOLRIHOJ6csLm65iTTRAyXNdoiM4RVa3et7bsWLmqBg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-[![Clear Code](https://yt3.ggpht.com/aQ-U3cm79DzvECgOWdfZz6PIbf3xPMe3ZfCf5McgALiBUXJmYcDQPBavxjqHE4GOLLobsOIVIg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ)
-[![Chris Titus Crypto](https://yt3.ggpht.com/_5f8hST3tx2XE99e_IKV6IIYrME0hAv7tjh8sjlPHhQ9w1RBzff-YeSix8OG16D_0rI1gIV5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/ChrisTitusCrypto/videos)
+[![Clear Code](https://yt3.googleusercontent.com/Wj9_npdrzYf5kxqLqfSLukT8iED0lR5r-lQ7giM3vXahULQYdm7cUtHstltUDLadmf9EyEANMA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ)
+[![Chris Titus Tech](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech)
 [![https://www.youtube.com/user/TheYoctoProject](https://yt3.ggpht.com/ytc/AKedOLRfNp21jIjDtIMDjZ_eFh5GbjMUD8Es1ml9r12M=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/TheYoctoProject)
 
 ### *Gaming & Setup & Review Channels*
@@ -235,7 +235,6 @@
 [![Salah G. Hamed](https://yt3.ggpht.com/4m4tlROMNFvfCASbhN0sHwLC3kdz1XAKhz75zrH1qzOTzNdKq7AdjeqCiss1JVCvY8EpSrOuaw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/SalahSelwady)
 [![Marques Brownlee](https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/mkbhd/videos)
 [![NOVA LAUNCHER SETUP](https://yt3.ggpht.com/ytc/AMLnZu9fEAT_sRW0RPtPrwE6EB4kqL94uxwZCtTI4tRNyXM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NOVALAUNCHERSETUP)
-[![THE NOVA SETUP](https://yt3.ggpht.com/XgIWj3la43-YvFeSmLtUSWpqJewrIKB43bA-dImp73KbM8aMqbChkwhWK_iTinco6eLfjuT5vw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCG8P7GxIFN7USPAjMRPP_Ig)
 [![Mustafa El-Feki - مصطفى الفقي](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 [![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
 [![UTD Saudi فيصل السيف ](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
@@ -264,6 +263,8 @@
 
 ### *FootBall & Entertainment & Economics and Others Channels*
 
+[![Vox](https://yt3.googleusercontent.com/ytc/AL5GRJWhPj6G-LzAiydF-lOZOzm91jdlu-aNxJgy2rauXg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Vox)
+[![ReadTube - جيل يقرأ](https://yt3.googleusercontent.com/ytc/AL5GRJXtPfKstk5f6p554B80qvQLsCXNdGbaZgegZQoSeQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Jeelyaqraa/videos)
 [![INNA](https://yt3.ggpht.com/TD2TM2BSF2OfaDqsvSHxulpvfQ3xy5EsQ_9tg-a9Quni2Aw0lFCfJI6MjKT3jrO6ms-0k0n8ZDw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Inna/channels)
 [![D7CAR](https://yt3.ggpht.com/ytc/AKedOLRtKz-dCpEF91uuzhn7RrYNHWETvcFzOwvK6e21=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjqr3uXUOoOCqzbzG4Ng_Ag)
 [![ElKaweer - الكوير ](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
@@ -283,7 +284,7 @@
 [![AJ+ كبريت](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-4KnPMmZzwAzW7SbVATUZQ)
 [![Elplatform - البلاتفورم](https://yt3.ggpht.com/ytc/AKedOLSujrhOtYxqMPmw-aFK_x5qnAkMA49hhVI_F1fV=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCO6ST5lJ_wsVIM_6cBiqUvw)
 [![يحيى عزام](https://yt3.ggpht.com/4li_tZZP55aLgEl4xShyPPtX2xN-EJtKNadJA5WGgBgubwpfW3fYLHWOnV_ZVYJtgXNDQn0FMQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/YayaAzzam/channels)
-[![EL BALF - الاسطى عبده الـبلــف](https://yt3.ggpht.com/3gUKyrmv33zdTHI39Nc4c985bG8UIhJT-KWu9BbxZyXiA-luhmG-qDRZn6ujcTfsaNAFIEFtAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCyzSRvqm6AVuNtYOMNYEA0Q)
+[![EL BALF - الاسطى عبده الـبلــف](https://yt3.googleusercontent.com/oUda2__0MNTNskeVmlThaa-HcaVcTTzods08u73uAqGJrnA1epbOJJtXAhOvYobc6pocq0GfGw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCyzSRvqm6AVuNtYOMNYEA0Q)
 [![YAYA Gaming - العب يا نووب](https://yt3.ggpht.com/ytc/AKedOLSoUpnkvIV_CprQt6P2hyo-bxQW1vaA6uZ6gWn_Qs8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh6Vd2V_fKhmTYAfeHcOI2A)
 [![ELL3B](https://yt3.ggpht.com/GfPpNtTaXpa74zF0MJKhXJQSojaHHAnG-S0dZmXSBznA98-xpbK63IIKCrv4ibpTOXOwPcyd=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/PremiumLeagueTV/videos)
 [![Saba7o Korah - صباحو كورة](https://yt3.ggpht.com/-bSgg-gyXAA8AGNdJAwHkFD_-VhtCnJ1VwrPUvkZ_jXlLs74WnZ8f1L6kn6GBcydjNBoBcJT=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCAIxr4DpLZH-Iih4mlbLjiA)
