@@ -216,6 +216,8 @@
 [![Clear Code](https://yt3.googleusercontent.com/Wj9_npdrzYf5kxqLqfSLukT8iED0lR5r-lQ7giM3vXahULQYdm7cUtHstltUDLadmf9EyEANMA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ)
 [![Chris Titus Tech](https://yt3.googleusercontent.com/R_rSQnTYQkL-rbtTA7djVbXLjU8Bwgua8GHJz6Ollsbyx_txdu0qVDBudCqvpzaxRQfVp2F4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChrisTitusTech)
 [![https://www.youtube.com/user/TheYoctoProject](https://yt3.ggpht.com/ytc/AKedOLRfNp21jIjDtIMDjZ_eFh5GbjMUD8Es1ml9r12M=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/TheYoctoProject)
+[![YouFact Tech](https://yt3.googleusercontent.com/ytc/AL5GRJUyyh3oN-AxpDRGgbq8zDBxhBTdYpWM3kr-shTC2g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@YouFactTech)
+[![TechZone](https://yt3.googleusercontent.com/ytc/AL5GRJV2FAZSUOEBAYpuw5tajtdcldT_W3XALtLRpHI1=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@tech___zone/videos)
 
 ### *Gaming & Setup & Review Channels*
 
