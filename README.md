@@ -26,7 +26,7 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
-- I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), [Mobile PenTest](https://academy.tcm-sec.com/p/mobile-application-penetration-testing), [Web PenTest](https://academy.tcm-sec.com/p/practical-web-application-security-and-testing), Reverse Engineering and Linux Dev.
+- I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), [**`Mobile PenTest`**](https://academy.tcm-sec.com/p/mobile-application-penetration-testing), [**`Web PenTest`**](https://academy.tcm-sec.com/p/practical-web-application-security-and-testing), Reverse Engineering and Linux Dev.
  - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/)  
  - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* 
  - *Information Technology Department* ***(IT)***
