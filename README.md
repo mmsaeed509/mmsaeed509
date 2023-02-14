@@ -30,7 +30,7 @@
  - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/)  
  - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* 
  - *Information Technology Department* ***(IT)***
- - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
+ - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf)<br/> [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
  
 
 <br/>
