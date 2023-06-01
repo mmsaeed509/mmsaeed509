@@ -21,7 +21,7 @@
   -----------------
   Name: Mahmoud Mohamed
   Nickname: Özil
-  Education: Graduated from *Faculty of Computers and AI*, (IT) Dep
+  Education: Graduated from *Faculty of Computers and AI*, (IT) Department
   University: Cairo University
   Intrests: ["CyberSecurity", "Linux", "FOSS", "Reverse Engineering"]
   ```
@@ -36,7 +36,7 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
- - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf) [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
+ - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
  
 </div>
 
