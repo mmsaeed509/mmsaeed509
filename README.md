@@ -14,10 +14,9 @@
 ┌[o0xwolf@git]-(~)
 └> mefetch
 ```
+<div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:250px;">
 
-<img src="gif/00xWolf.gif" alt="wolf" align="right" width="250px" height="250">
-
-```css
+ ```css
   o0xwolf@GitHub
   -----------------
   Name: Mahmoud Mohamed
@@ -26,8 +25,8 @@
   University: Cairo University
   Intrests: ["CyberSecurity", "Linux", "FOSS", "Reverse Engineering"]
   ```
-
- - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
+ 
+  - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
 [![Discord](https://img.shields.io/badge/discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
 [![gitlab](https://img.shields.io/badge/mmsaeed509-05122A?style=FOR-THE-BADGE&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
 [![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=FOR-THE-BADGE&color=purple)](https://www.reddit.com/user/mmsaeed509)
@@ -37,9 +36,15 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
-- I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), [**`Mobile PenTest`**](https://academy.tcm-sec.com/p/mobile-application-penetration-testing), [**`Web PenTest`**](https://academy.tcm-sec.com/p/practical-web-application-security-and-testing).
  - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/)  
- - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf)<br/> [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
+ - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf) [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
+ 
+</div>
+
+<!-- <img src="gif/00xWolf.gif" alt="wolf" align="right" width="250px" height="250"> -->
+
+
+
  
 
 <br/>
