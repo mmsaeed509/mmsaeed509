@@ -13,14 +13,19 @@
 ```css
 ┌[o0xwolf@git]-(~)
 └> mefetch
-          └> Hi there I'm Mahmoud Mohamed, You can call me Özil
-          └> I'm a Jr. PenTester, Linux Enthusiast and open source contributor
 ```
 
-<h3 align="center"> <br/> </h3>
-
-
 <img src="gif/00xWolf.gif" alt="wolf" align="right" width="250px" height="250">
+
+```css
+  o0xwolf@GitHub
+  -----------------
+  Name: Mahmoud Mohamed
+  Nickname: Özil
+  Education: Graduated from *Faculty of Computers and AI*, (IT) Dep
+  University: Cairo University
+  Intrests: ["CyberSecurity", "Linux", "FOSS", "Reverse Engineering"]
+  ```
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/mmsaeed509)
 [![Discord](https://img.shields.io/badge/discord-05122A?style=FOR-THE-BADGE&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
@@ -33,9 +38,7 @@
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), [**`Mobile PenTest`**](https://academy.tcm-sec.com/p/mobile-application-penetration-testing), [**`Web PenTest`**](https://academy.tcm-sec.com/p/practical-web-application-security-and-testing).
--  Interested in Reverse Engineering and Linux Development.
  - I'm the creator of [**`Exodia OS`**](https://exodia-os.github.io/exodia-website/)  
- - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* ***(IT)***
  - [My Credly profile ](https://www.credly.com/users/mahmoud-ahmed.f374e933), [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [My Covering Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf)<br/> [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
  
 
