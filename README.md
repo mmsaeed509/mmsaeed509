@@ -112,7 +112,7 @@
 -->
 
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="00xWolf stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mmsaeed509&theme=darkhub&margin-w=15&margin-h=15&column=5&v=2" alt="00xWolf stats" />
 </p>
 
 <p align="left">
