@@ -40,13 +40,6 @@
  
 </div>
 
-<!-- <img src="gif/00xWolf.gif" alt="wolf" align="right" width="250px" height="250"> -->
-
-
-
- 
-
-<br/>
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> Important Projects/Repos </h3>
