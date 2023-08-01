@@ -1,13 +1,3 @@
-<!-- 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmsaeed509&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE" alt="mmsaeed509" /> </p> 
-
-[![reddit : mmsaeed509](https://img.shields.io/reddit/subreddit-subscribers/mmsaeed509?style=social)](https://www.reddit.com/user/mmsaeed509)
-
--->
-
-<!-- ![](/gif/00xWolf.gif) -->
-
 <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf">
 
 ```css
@@ -309,44 +299,6 @@
 ## [My Setup](/MySetup/README.md)
 
 ![](/gif/setup.gif)
-
-<!-- 
-## [My Desktop](https://github.com/mmsaeed509/bspwm-dots)
-![](/gif/ALLTHEMES.gif)
- -->
- 
-<!-- 
-## Games & Hobbies :
-Games :
-
-![stronghold crusader](https://img.icons8.com/fluency/48/000000/crusader.png)
-![valorant](https://img.icons8.com/color/48/000000/valorant.png)
-![FIFA](https://img.icons8.com/color/48/000000/fifa18.png)
-![pes](https://img.icons8.com/officel/16/000000/football2--v1.png)
-![gta](https://img.icons8.com/ios-filled/50/000000/rockstar-games.png)
-![gta-grand](https://img.icons8.com/dusk/50/000000/grand-theft-auto-v.png)
-![Hulk](https://img.icons8.com/color/48/000000/hulk.png)
-
-Hobbies : 
-
-![music](https://img.icons8.com/fluency/48/000000/apple-music.png)
-![football](https://img.icons8.com/ios/50/000000/goalkeeper-with-net.png)
-![sport](https://img.icons8.com/color/48/000000/running--v1.png)
-![wwe](https://img.icons8.com/color/48/000000/championship-belt.png)
-![pc building](https://img.icons8.com/fluency/48/000000/pc-on-desk.png)
- -->
- 
-<!-- 
-## Favorite National Team & Team :      
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; **Germany 🇩🇪**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**FC Bayern München ❤️❤️**
-
-<p align="center">
-    <img height="165" src="/Images/dfb_team.png" alt="Germany 🇩" />
-       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <img height="135" src="/Images/fcbayern.png" alt="FC Bayern München ❤️❤️" />
-</p>
- -->
  
 </details>
 
@@ -370,16 +322,6 @@ Hobbies :
 | -----------|:-------------|:-------------|:----------------|:----------|
 |[![Exodia](https://img.shields.io/badge/OS-Exodia%20OS-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/)| [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) |[![Exodia](https://img.shields.io/badge/OS-Exodia%20OS-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) </br> [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)|
 
-<!--  
-
-
-<p align="center">
-<a href="https://drive.google.com/file/d/1cKfy3dy0-0WJcNQbN4Q7b5aJVCiM-NfV/view?usp=sharing">
-  <img src="gif/ExodiaPredator.gif" />
-</a>
-<p/>
-
--->
 
 ### Now I'm using [Exodia OS Predator Edition](https://exodia-os.github.io/exodia-website/). If you are using it you can contact me if you have an issue so I can help you and here's [My Social Media Accounts](#contact-me).
 
@@ -390,12 +332,8 @@ Hobbies :
 <!-- contact me -->
 
 ## contact me
-<!--
- [My Garuda Linux Community Account](https://forum.garudalinux.org/u/mmsaeed509/) 
--->
 
 [![facebook](/Images/facebook-new.png)](https://www.facebook.com/engrody.linux.5/)
-[![facbook](/Images/facebook-new.png)](https://www.facebook.com/profile.php?id=100051122386367)
 [![instagram](/Images/instagram-new.png)](https://www.instagram.com/mmsaeed509/)
 <a href="https://www.threads.net/@mmsaeed509"><img src="Images/Threads.png" width=45 alt="Threads"></a>
 [![Reddit](/Images/reddit--v4.png)](https://www.reddit.com/user/mmsaeed509)
