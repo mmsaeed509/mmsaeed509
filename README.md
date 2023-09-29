@@ -46,30 +46,9 @@
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
 </a>  
 &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/Exodia-OS/exodia-wireless-ISO">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-wireless-ISO&layout=compact&theme=tokyonight" />
-</a>  
-
-<br/>
-
-<a href="https://github.com/mmsaeed509/acer-predator-turbo-and-rgb-keyboard-linux-module">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=acer-predator-turbo-and-rgb-keyboard-linux-module&layout=compact&theme=tokyonight" />
-</a>  
- &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/mmsaeed509/Linux-PredatorSense">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Linux-PredatorSense&layout=compact&theme=tokyonight" />
-</a>  
-
-<br/>
-
-<a href="https://github.com/mmsaeed509/Information-and-Computer-Network-Security-Cybersecurity">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Information-and-Computer-Network-Security-Cybersecurity&layout=compact&theme=tokyonight" />
-</a>  
- &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Myscripts">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
-</a>  
-
+</a> 
 </p>
 
 <!--  My LinuxDesktopSetup  -->
@@ -132,22 +111,30 @@
 
 ### Skills ( Languages & Tools ):
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
+[![Json](https://img.shields.io/badge/language-Json-05122A?style=plastic&logo=json&color=informational)](https://www.json.org/)
+[![Yaml](https://img.shields.io/badge/language-Yaml-05122A?style=plastic&logo=yaml&color=informational)](https://yaml.org/)
+[![Vagrant](https://img.shields.io/badge/Tools-Vagrant-05122A?style=plastic&logo=vagrant&color=informational)](https://www.vagrantup.com/)
+[![Jenkins](https://img.shields.io/badge/Tools-Jenkins-05122A?style=plastic&logo=jenkins&color=informational)](https://www.jenkins.io/)
+[![Ansible](https://img.shields.io/badge/Tools-Ansible-05122A?style=plastic&logo=ansible&color=informational)](https://www.ansible.com/)
+[![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-05122A?style=plastic&logo=kubernetes&color=informational)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-05122A?style=plastic&logo=AWS&color=informational)](https://aws.amazon.com/)
+[![Nginx](https://img.shields.io/badge/Server-Nginx-05122A?style=plastic&logo=nginx&color=informational)](https://www.nginx.com/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
 [![qemu](https://img.shields.io/badge/VM-qemu-05122A?style=plastic&logo=qemu&color=informational)](https://www.qemu.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
+[![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
 [![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
 [![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&color=informational)](https://www.jetbrains.com/)
 [![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&color=informational)](https://www.jetbrains.com/idea/)
 [![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&color=informational)](https://www.jetbrains.com/clion/)
 [![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&color=informational)](https://www.jetbrains.com/datagrip/)
 [![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&color=informational)](https://www.jetbrains.com/pycharm/)
-[![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&color=informational)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-05122A?style=plastic&logo=android-studio&color=informational)](https://developer.android.com/studio)
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
-[![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
 [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
 [![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
