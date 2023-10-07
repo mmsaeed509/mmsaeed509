@@ -110,6 +110,7 @@
 <!-- Skills ( Languages & Tools ) -->
 
 ### Skills ( Languages & Tools ):
+
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![Json](https://img.shields.io/badge/language-Json-05122A?style=plastic&logo=json&color=informational)](https://www.json.org/)
 [![Yaml](https://img.shields.io/badge/language-Yaml-05122A?style=plastic&logo=yaml&color=informational)](https://yaml.org/)
@@ -123,6 +124,7 @@
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
 [![qemu](https://img.shields.io/badge/VM-qemu-05122A?style=plastic&logo=qemu&color=informational)](https://www.qemu.org/)
+[![Terraform](https://img.shields.io/badge/Tools-Terraform-05122A?style=plastic&logo=Terraform&color=informational)](https://www.terraform.io/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
