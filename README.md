@@ -111,6 +111,8 @@
 
 ### Skills ( Languages & Tools ):
 
+[![sonarcloud](https://img.shields.io/badge/Code%20Analysis-sonarcloud-05122A?style=plastic&logo=sonarcloud&color=informational)](https://sonarcloud.io/explore/projects)
+[![sonarqube](https://img.shields.io/badge/Code%20Analysis-sonarcloud-05122A?style=plastic&logo=sonarqube&color=informational)](https://www.sonarsource.com/)
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![Json](https://img.shields.io/badge/DSL-Json-05122A?style=plastic&logo=json&color=informational)](https://www.json.org/)
 [![Yaml](https://img.shields.io/badge/DSL-Yaml-05122A?style=plastic&logo=yaml&color=informational)](https://yaml.org/)
