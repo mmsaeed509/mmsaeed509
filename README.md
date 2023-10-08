@@ -119,6 +119,7 @@
 [![Vagrant](https://img.shields.io/badge/Tools-Vagrant-05122A?style=plastic&logo=vagrant&color=informational)](https://www.vagrantup.com/)
 [![Jenkins](https://img.shields.io/badge/Tools-Jenkins-05122A?style=plastic&logo=jenkins&color=informational)](https://www.jenkins.io/)
 [![Ansible](https://img.shields.io/badge/Tools-Ansible-05122A?style=plastic&logo=ansible&color=informational)](https://www.ansible.com/)
+[![Helm](https://img.shields.io/badge/Tools-Helm-05122A?style=plastic&logo=Helm&color=informational)](https://helm.sh/)
 [![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-05122A?style=plastic&logo=kubernetes&color=informational)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-05122A?style=plastic&logo=amazon-aws&color=informational)](https://aws.amazon.com/)
 [![Nginx](https://img.shields.io/badge/Server-Nginx-05122A?style=plastic&logo=nginx&color=informational)](https://www.nginx.com/)
