@@ -112,8 +112,8 @@
 ### Skills ( Languages & Tools ):
 
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
-[![Json](https://img.shields.io/badge/language-Json-05122A?style=plastic&logo=json&color=informational)](https://www.json.org/)
-[![Yaml](https://img.shields.io/badge/language-Yaml-05122A?style=plastic&logo=yaml&color=informational)](https://yaml.org/)
+[![Json](https://img.shields.io/badge/DSL-Json-05122A?style=plastic&logo=json&color=informational)](https://www.json.org/)
+[![Yaml](https://img.shields.io/badge/DSL-Yaml-05122A?style=plastic&logo=yaml&color=informational)](https://yaml.org/)
 [![Vagrant](https://img.shields.io/badge/Tools-Vagrant-05122A?style=plastic&logo=vagrant&color=informational)](https://www.vagrantup.com/)
 [![Jenkins](https://img.shields.io/badge/Tools-Jenkins-05122A?style=plastic&logo=jenkins&color=informational)](https://www.jenkins.io/)
 [![Ansible](https://img.shields.io/badge/Tools-Ansible-05122A?style=plastic&logo=ansible&color=informational)](https://www.ansible.com/)
@@ -124,7 +124,7 @@
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
 [![qemu](https://img.shields.io/badge/VM-qemu-05122A?style=plastic&logo=qemu&color=informational)](https://www.qemu.org/)
-[![Terraform](https://img.shields.io/badge/Tools-Terraform-05122A?style=plastic&logo=Terraform&color=informational)](https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/DSL-Terraform-05122A?style=plastic&logo=Terraform&color=informational)](https://www.terraform.io/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/Tools-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
@@ -144,7 +144,7 @@
 [![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
 [![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
-[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
+[![Markdown](https://img.shields.io/badge/Markup%2BLanguage-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
 [![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
