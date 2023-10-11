@@ -16,10 +16,10 @@
   Intrests: ["DevOps", "CyberSec", "Linux", "FOSS", "Reverse Engineering"]
   ```
  
-  - [![ProfileViews](https://komarev.com/ghpvc/?username=mmsaeed509&style=for-the-badge)](https://github.com/mmsaeed509)
-[![Discord](https://img.shields.io/badge/%20-05122A?style=for-the-badge&logo=Discord&color=purple)](https://discordapp.com/users/528010173403365377)
-[![gitlab](https://img.shields.io/badge/GitLab-05122A?style=for-the-badge&logo=gitlab&logoColor=informational&color=purple)](https://gitlab.com/mmsaeed509)
-[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=for-the-badge&color=purple)](https://www.reddit.com/user/mmsaeed509)
+  - [![ProfileViews](https://komarev.com/ghpvc/?username=mmsaeed509&style=for-the-badge&color=blueviolet)](https://github.com/mmsaeed509)
+[![Discord](https://img.shields.io/badge/%20-05122A?style=for-the-badge&logo=Discord&logoColor=grey&color=blueviolet)](https://discordapp.com/users/528010173403365377)
+[![gitlab](https://img.shields.io/badge/%20-05122A?style=for-the-badge&logo=gitlab&logoColor=orange&color=blueviolet)](https://gitlab.com/mmsaeed509)
+[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=for-the-badge&color=blueviolet)](https://www.reddit.com/user/mmsaeed509)
 - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
