@@ -218,6 +218,7 @@
 [![Arabhardware](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar](https://yt3.ggpht.com/uo8_C-S6eMgcZ2mgYWQr5VFhQf5bIOHxThEvsdjKAypnoXy4I_BSg0zd9KtL1nsbqtlHoyYuIw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
+[![iFixit](https://yt3.googleusercontent.com/ytc/APkrFKZI38ZCPAEStSMUR3KgavaKjRUV675wrxjtAdeE_A=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@iFixitYourself/videos)
 [![Android Basha](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
 [![Camera Basha](https://yt3.ggpht.com/ytc/AKedOLTnyxq2_98g8qFyiTr1XBwVBLDKDUDEN_usWWNf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCSg5-KvujMNs7nOj4WgLt3g)
 [![Gaming Basha](https://yt3.ggpht.com/zLeFfYO3_5AIhs_Oc2duuP6PS6-cb_Mz_7HYl__62PTeMuU3F8AQmOAt8HIR743HMNonkrLB=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIWgNj19ia7sR7cxJkIKsLw)
