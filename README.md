@@ -218,7 +218,7 @@
 [![Arabhardware](https://yt3.ggpht.com/ytc/AKedOLSZPULXksuZCTCZKhEttms9Fyfl0AKbfQ7IRBnFtA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC4hJegNmN0gKiJMgVk3icHg)
 [![Cambotar](https://yt3.ggpht.com/uo8_C-S6eMgcZ2mgYWQr5VFhQf5bIOHxThEvsdjKAypnoXy4I_BSg0zd9KtL1nsbqtlHoyYuIw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-BZxIdlztx9bvptinxpnlg)
 [![DIY Perks](https://yt3.ggpht.com/ytc/AKedOLS6UPNPQPwGeEU9cSybQQ9e3TiPAe7yyUu4eMcMRQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DIYPerks)
-[![iFixit](https://yt3.googleusercontent.com/ytc/APkrFKZI38ZCPAEStSMUR3KgavaKjRUV675wrxjtAdeE_A=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@iFixitYourself/videos)
+<a href="https://www.youtube.com/@iFixitYourself/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKZI38ZCPAEStSMUR3KgavaKjRUV675wrxjtAdeE_A=s176-c-k-c0x00ffffff-no-rj" width=45 alt="iFixit"></a>
 [![Android Basha](https://yt3.ggpht.com/gpNF-Hqc8iZJYgIxpRtWVB3K4-v0-yGjl5nxyDKmgS7UigeiW0V9M2T46D__j9ZNN1Xnc0G2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AndroidBasha)
 [![Camera Basha](https://yt3.ggpht.com/ytc/AKedOLTnyxq2_98g8qFyiTr1XBwVBLDKDUDEN_usWWNf=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCSg5-KvujMNs7nOj4WgLt3g)
 [![Gaming Basha](https://yt3.ggpht.com/zLeFfYO3_5AIhs_Oc2duuP6PS6-cb_Mz_7HYl__62PTeMuU3F8AQmOAt8HIR743HMNonkrLB=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIWgNj19ia7sR7cxJkIKsLw)
@@ -227,7 +227,7 @@
 [![NOVA LAUNCHER SETUP](https://yt3.ggpht.com/ytc/AMLnZu9fEAT_sRW0RPtPrwE6EB4kqL94uxwZCtTI4tRNyXM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NOVALAUNCHERSETUP)
 [![Mustafa El-Feki](https://yt3.ggpht.com/5ZlPWfV6nIWIN9Lcc9mOdJgf514it0ir675qlUvnq3_awpBZyILPSQa_NwZcxFbaoUNaxrhyaA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCIij97kWTAKuVPE1DBlZvaw)
 [![Designs By IFR](https://yt3.ggpht.com/ytc/AKedOLQ5yPJN3daHYRh68muDONqKbB7gfwC9-1CFaLw2aw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCV11AccJeiMX4ZyHErV2oPw)
-[![Teddy Baldassarre](https://yt3.googleusercontent.com/ytc/APkrFKbsA37VIMxOjXBxVejQBp615ju-dGi90zDKikfu2w=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TeddyBaldassarre/videos)
+<a href="https://www.youtube.com/@TeddyBaldassarre/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKbsA37VIMxOjXBxVejQBp615ju-dGi90zDKikfu2w=s176-c-k-c0x00ffffff-no-rj" width=45 alt="Teddy Baldassarre"></a>
 [![UTD Saudi](https://yt3.ggpht.com/ytc/AKedOLTOGUUJZWTSApSvJpSo8q6b3LNPtd-1fg5m4W7R=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/uptodateksa2)
 [![ARTech](https://yt3.ggpht.com/ZWhXvV_0DwYkPnvT4eDbnnYjzMi2kT_Lh_d7tjXWdZ8sXJAXlrKeJspDaNNk3XZSR4EuRQyC=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCaTeZaCUYuwRTpyPFoLCtWA)
 [![AHW Esports](https://yt3.ggpht.com/ytc/AKedOLQ6Iuums2QHcaGkVlLYwDQaSz8GpPbDi9KHIh3X=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCmFHCQfTa4i39pyW1_agCaw)
