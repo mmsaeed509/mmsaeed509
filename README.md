@@ -1,4 +1,4 @@
-<img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf">
+<img src="Images/I-stand-with-Palestine.jpg" alt="00xWolf">
 
 ```css
 ┌[o0xwolf@git]-(~)
