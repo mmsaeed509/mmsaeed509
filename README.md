@@ -8,7 +8,7 @@
 
  ```css
   o0xwolf@GitHub
-  -----------------
+  -------------------------------------------------------------------------
   Name: Mahmoud Mohamed
   Nickname: Özil
   Education: Graduated from *Faculty of Computers and AI*, (IT) Department
