@@ -182,7 +182,7 @@
 [![Hak5](https://yt3.ggpht.com/ytc/AKedOLQLYwUybycVx47iqpJ-AbSCPACIltHBWax5J8-Uzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 [![Null Byte](https://yt3.ggpht.com/ytc/AKedOLS1xSh3DWY-lpQZXHhGiBN_ms8tUQlPi3qK34Zo=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/NullByteWHT)
 [![ALFA Network Inc](https://yt3.ggpht.com/ytc/AKedOLQqCL-n54irXAaYTl_fAFJzeygWY-MrD4qN61Kg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/alfanetworkinc)
-[![Programming with Mosh](https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/programmingwithmosh)
+<a href="https://www.youtube.com/c/programmingwithmosh"><img src="https://yt3.googleusercontent.com/ebu9ZksIXw0tUWBZd6rtk-It8VGSk8AdfSI_eGR-fl6WGet9LnVPngNQCmjdLJeGXpuylwYInQ=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Programming with Mosh"></a>
 [![Digi-Key](https://yt3.ggpht.com/ytc/AKedOLQnH_NCy1GcnVfa8y6_nubKuSKtc0kQRzueYzF2NVs=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/digikey)
 [![Abdulmogeeb AlHumaid](https://yt3.ggpht.com/tPmcAgBRQmH1zxcFOial25kliUjHskFswupeL0V64KoNZ0o84sddlURkE9YM8qfaiE-K71qrppo=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/abdulmogeeb)
 [![Chris Titus Tech](https://yt3.ggpht.com/ytc/AKedOLTE8sCvbu2Gebpjlu_bX4YJxwFbnKai7m8zxWD05g=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
