@@ -257,6 +257,7 @@
 [![ReadTube](https://yt3.googleusercontent.com/ytc/AL5GRJXtPfKstk5f6p554B80qvQLsCXNdGbaZgegZQoSeQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Jeelyaqraa/videos)
 <a href="https://www.youtube.com/@ahmedmansouraja/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKaDb__LsZnn0LImxxyFMvI5wlGfW8h5JLtIeQP5=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Mansour"></a>
 <a href="https://www.youtube.com/@thmanyahPodcasts"><img src="https://yt3.googleusercontent.com/ytc/APkrFKaURaDgkc1SF9xEhXLVsZnHg7IlKfGyRIkvmF5A7g=s176-c-k-c0x00ffffff-no-rj" width=88 alt="thmanyahPodcasts"></a>
+<a href="https://www.youtube.com/@AlephBab"><img src="https://yt3.googleusercontent.com/Fc2lhc2wiXpfUJ6qYJdoISUonk4eyAHYCr7Dfr-Nk3b6MA4NMR2zX0PJKYo7SpC_2i8-HH3clw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="AlephBab"></a>
 <a href="https://www.youtube.com/@justkasem"><img src="https://yt3.googleusercontent.com/ExYyjnzlZsRNfgkQccMt8_boqkFWNEUK44cu0Vm6d6qwuKDnd2oMMa7CAGZg3Rn2To0GzOuAbg=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Kasem"></a>
 <a href="https://www.youtube.com/@morekasem"><img src="https://yt3.googleusercontent.com/NEgXe8b27aG6SVIePh6ZlBFIf4BzKt_NUtBNMqEfnG6UGZlUsaL8vchKKeju0cTVpaW33_o6=s176-c-k-c0x00ffffff-no-rj" width=88 alt="MoreKasem"></a>
 [![Vox](https://yt3.googleusercontent.com/ytc/AL5GRJWhPj6G-LzAiydF-lOZOzm91jdlu-aNxJgy2rauXg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Vox)
