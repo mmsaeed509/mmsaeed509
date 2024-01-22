@@ -24,7 +24,7 @@
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
- - [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [Cover Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
+ - [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed_Said_Ahmed_Resume.pdf), [Cover Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
  
 </div>
 
