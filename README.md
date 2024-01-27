@@ -13,7 +13,7 @@
   Nickname: Özil
   Education: Graduated from *Faculty of Computers and AI*, (IT) Department
   University: Cairo University
-  Intrests: ["DevOps", "MLOps", "CyberSecurity", "Linux", "FOSS", "ML"]
+  Intrests: ["DevOps", "CyberSec", "Linux", "FOSS", "Reverse Engineering"]
   ```
  
   - [![ProfileViews](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)
