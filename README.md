@@ -11,7 +11,8 @@
   -----------------------------------------------------------------------
   Name: Mahmoud Mohamed
   Nickname: Özil
-  Education: Graduated from *Faculty of Computers and AI*, (IT) Department
+  Education: Graduated from *Faculty of Computers and Artificial Intelligence*
+  Department: Information Technology (IT)
   University: Cairo University
   Interests: ["DevOps", "MLOps", "CyberSecurity", "Linux", "FOSS", "AI-ML"]
   ```
