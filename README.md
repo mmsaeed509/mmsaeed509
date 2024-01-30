@@ -1,13 +1,13 @@
 <img src="Images/me-in-setup-2.jpg" alt="00xWolf">
 
 ```css
-┌[o0xwolf@git]-(~)
+┌[Mr.o0xwolf@git]-(~)
 └> mefetch
 ```
 <div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:250px;">
 
  ```css
- o0xwolf@GitHub
+ Mr. o0xwolf@GitHub
  -----------------------------------------------------------------------
  Name: Mahmoud Mohamed
  Nickname: Özil
