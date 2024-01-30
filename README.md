@@ -7,7 +7,7 @@
 <div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:250px;">
 
  ```css
- Mr. o0xwolf@GitHub
+ Mr.o0xwolf@GitHub
  -----------------------------------------------------------------------
  Name: Mahmoud Mohamed
  Nickname: Özil
