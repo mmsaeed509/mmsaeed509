@@ -4,7 +4,7 @@
 ┌[Mr.o0xwolf@git]-(~)
 └> mefetch
 ```
-<div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:250px;">
+<div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:200px;">
 
  ```css
  Mr.o0xwolf@GitHub
