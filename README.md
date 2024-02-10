@@ -16,15 +16,16 @@
  University: Cairo University
  Interests: ["DevOps", "MLOps", "CyberSecurity", "Linux", "FOSS", "AI-ML"]
   ```
- 
-  - [![ProfileViews](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)
-[![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=Discord&logoColor=black&color=blueviolet)](https://discordapp.com/users/528010173403365377)
-[![gitlab](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab&logoColor=orange&color=blueviolet)](https://gitlab.com/mmsaeed509)
-[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=flat&color=blueviolet)](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=flat&color=blueviolet)
-- [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
+
+ - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/mmsaeed509?style=social)](https://github.com/mmsaeed509)
 [![GitHubUserStars: Exodia-OS](https://img.shields.io/github/stars/Exodia-OS?style=social)](https://github.com/Exodia-OS)
 [![GitHubFollowers: Exodia-OS](https://img.shields.io/github/followers/Exodia-OS?style=social)](https://github.com/Exodia-OS)
+  - [![ProfileViews](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=mmsaeed509&style=flat&color=blueviolet)
+[![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=Discord&logoColor=black&color=blueviolet)](https://discordapp.com/users/528010173403365377)
+[![gitlab](https://img.shields.io/badge/GitLab-05122A?style=flat&logo=gitlab&logoColor=orange&color=blueviolet)](https://gitlab.com/mmsaeed509)
+[![Ko-Fi : mmsaeed509](https://img.shields.io/badge/Ko--Fi-0DBBFF?style=flat&logo=kofi&logoColor=FFFFFF)](https://ko-fi.com/mmsaeed509)
+[![reddit : mmsaeed509](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=flat&color=blueviolet)](https://img.shields.io/reddit/user-karma/combined/mmsaeed509?style=flat&color=blueviolet)
  - [Certificates](Certifications_cv/), [Resume](Certifications_cv/Mahmoud_Mohamed_Said_Ahmed_Resume.pdf), [Cover Letter](/Certifications_cv/Mahmoud_CoveringLetter.pdf), [🏆 ctf Player](https://cybertalents.com/dashboard), [**`my portfolio`**](https://portfolio-mmsaeed509.vercel.app/), [📫 reach me](#contact-me).
  
 </div>
