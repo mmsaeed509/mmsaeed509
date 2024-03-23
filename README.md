@@ -274,17 +274,14 @@
 <a href="https://www.youtube.com/@Mantooq_books"><img src="https://yt3.googleusercontent.com/WDx1iMQ9Ismsdr-cZ9j4T3_YrjIedZs7vJfDBgH3DaFZ_nKH7uk5LeD2-glNSgh5zvyH1Xm_mos=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Mantooq_books"></a>
 <a href="https://www.youtube.com/@eld3wah"><img src="https://yt3.googleusercontent.com/ytc/AIf8zZT80rFk-nPqSYSLmpfyg3riw_I2tD5Zh5jwWChtcw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="eld3wah"></a>
 <a href="https://www.youtube.com/@ahmedmansouraja/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKaDb__LsZnn0LImxxyFMvI5wlGfW8h5JLtIeQP5=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Mansour"></a>
-[![INNA](https://yt3.ggpht.com/TD2TM2BSF2OfaDqsvSHxulpvfQ3xy5EsQ_9tg-a9Quni2Aw0lFCfJI6MjKT3jrO6ms-0k0n8ZDw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/Inna/channels)
-[![D7CAR](https://yt3.ggpht.com/ytc/AKedOLRtKz-dCpEF91uuzhn7RrYNHWETvcFzOwvK6e21=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjqr3uXUOoOCqzbzG4Ng_Ag)
+<a href="https://www.youtube.com/channel/UCjqr3uXUOoOCqzbzG4Ng_Ag"><img src="https://yt3.googleusercontent.com/HEE6U1ojHAjy_QYbnvmtZDNyr5SB5hGynOAyiksZcCBKMFrWanZx0t-FYXNV1uzcRRRvO8Qodw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="INNA"></a>
+[![D7CAR](https://yt3.ggpht.com/ytc/AKedOLRtKz-dCpEF91uuzhn7RrYNHWETvcFzOwvK6e21=s88-c-k-c0x00ffffff-no-rj)]()
 [![ElKaweer](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
-[![Mamdouh NasrAllah](https://yt3.ggpht.com/ytc/AKedOLQrZVs2tAtB3vHZyByEdT38Li-o_NI2okjGIFe3Bg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC9c89meMU-ES5hb3CVAgIjQ)
-[![MNEU](https://yt3.ggpht.com/Y04vRk57lxiqPaiz8SXglGX_dmAweusWyYfKVti4JWS45MJKcenBJZS-vTBDLMprewIKQkK4=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/user/NasrAllah99)
 [![Omar Abdelrahim](https://yt3.ggpht.com/ytc/AKedOLR3JfcX0JwLPG3I2bV2D8i2xo1khQpzXFwFX4pM=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxmEEGYXJkgJJO12nJhXl5g)
 [![German Football](https://yt3.ggpht.com/ytc/AKedOLTKQ0Ujgoi92io1hNgN56iSvZmyM_bYCxTwqKy2=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/GermanFootball)
 [![Bundesliga](https://yt3.ggpht.com/ytc/AKedOLQRRttxgURK4xqE0A-GcFZlEhxL5skaKlYLjZtOyg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/bundesligatv)
 [![beIN SPORTS](https://yt3.ggpht.com/ytc/AKedOLT3ruHgMaBrdKn9IJwUZQen-8BlZeOy4J_2zG4gOw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/beINSPORTS/channels)
-[![Mohamad Adnan](https://yt3.ggpht.com/ytc/AKedOLSz8tiRdtqVlfndyVVxqJczA5qvz95fcBa22smdiQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCxUPU7lI249SW_j5WgByJRA)
-[![FC Bayern Munich](https://yt3.ggpht.com/bUoqRSR8mGhGwTX0rPgsFUNAaDM2yZacgYOoSYtuv21-GXOGeDehD5glMD3S50YOsGYIvgsMWA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/fcbayern)
+<a href="https://www.youtube.com/c/fcbayern"><img src="https://yt3.googleusercontent.com/zcaO7Wc18UjwVyFywKOhmKM75qIuw7-Q6tp-icqWDcM3xJSVkl5oHibPmZdYO-H40Oe6wfHlsw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="FC Bayern Munich"></a>
 [![AL HASHIM](https://yt3.ggpht.com/ytc/AKedOLRHEPdYBD51TTzHSz136-MfO561azOeXisW-7zA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCN1Lyow-3R4jtN-cddDd_eQ)
 [![AJ+](https://yt3.ggpht.com/ytc/AKedOLRy_PEs6XEYxfQJy6B95qNSsOxDCHvgOSvdtaROFQ=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UC-4KnPMmZzwAzW7SbVATUZQ)
 [![Elplatform](https://yt3.ggpht.com/ytc/AKedOLSujrhOtYxqMPmw-aFK_x5qnAkMA49hhVI_F1fV=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCO6ST5lJ_wsVIM_6cBiqUvw)
@@ -292,7 +289,6 @@
 [![EL BALF](https://yt3.googleusercontent.com/oUda2__0MNTNskeVmlThaa-HcaVcTTzods08u73uAqGJrnA1epbOJJtXAhOvYobc6pocq0GfGw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCyzSRvqm6AVuNtYOMNYEA0Q)
 [![YAYA Gaming](https://yt3.ggpht.com/ytc/AKedOLSoUpnkvIV_CprQt6P2hyo-bxQW1vaA6uZ6gWn_Qs8=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh6Vd2V_fKhmTYAfeHcOI2A)
 [![ELL3B](https://yt3.ggpht.com/GfPpNtTaXpa74zF0MJKhXJQSojaHHAnG-S0dZmXSBznA98-xpbK63IIKCrv4ibpTOXOwPcyd=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/PremiumLeagueTV/videos)
-[![Saba7o Korah](https://yt3.ggpht.com/-bSgg-gyXAA8AGNdJAwHkFD_-VhtCnJ1VwrPUvkZ_jXlLs74WnZ8f1L6kn6GBcydjNBoBcJT=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCAIxr4DpLZH-Iih4mlbLjiA)
 [![El Hareef](https://yt3.ggpht.com/ytc/AKedOLSiUZxr8rJ2F8BiE0dm1x1F6RibgZV1lAFx0Sk48Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNbLomUt7UkAUKOxByVKVtA)
 [![Ahmad Tawfik](https://yt3.ggpht.com/ytc/AKedOLRBS5tBVujA93gHIdJHOQVqSLT4uhH1aeR-ugveJw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVMeoYAy4w09_pQycgl7z7Q/featured)
 [![Al-Ghafry QQQ](https://yt3.ggpht.com/hfE2Rl8nhT0iMhzdbuoc5OJdpYuzRY-fwoQdIS4d0f7_qUHx1JkJHe-ctd-VWsDva--c8RJr-A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCeriWoRVWMHXBbo-FNG-0GQ)
