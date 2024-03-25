@@ -274,6 +274,7 @@
 <a href="https://www.youtube.com/@Mantooq_books"><img src="https://yt3.googleusercontent.com/WDx1iMQ9Ismsdr-cZ9j4T3_YrjIedZs7vJfDBgH3DaFZ_nKH7uk5LeD2-glNSgh5zvyH1Xm_mos=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Mantooq_books"></a>
 <a href="https://www.youtube.com/@eld3wah"><img src="https://yt3.googleusercontent.com/ytc/AIf8zZT80rFk-nPqSYSLmpfyg3riw_I2tD5Zh5jwWChtcw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="eld3wah"></a>
 <a href="https://www.youtube.com/@ahmedmansouraja/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKaDb__LsZnn0LImxxyFMvI5wlGfW8h5JLtIeQP5=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Mansour"></a>
+<a href="https://www.youtube.com/@AhmedAdly2/videos"><img src="https://yt3.googleusercontent.com/xVx3Kw2fDijk4AWvJqs8NgZLHl1R8_dR3kgJoVaJFLv1o3-1v7EUgg66fW46b19Hdy-dYZOG4w=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Adly"></a>
 <a href="https://www.youtube.com/channel/UCjqr3uXUOoOCqzbzG4Ng_Ag"><img src="https://yt3.googleusercontent.com/HEE6U1ojHAjy_QYbnvmtZDNyr5SB5hGynOAyiksZcCBKMFrWanZx0t-FYXNV1uzcRRRvO8Qodw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="INNA"></a>
 [![D7CAR](https://yt3.ggpht.com/ytc/AKedOLRtKz-dCpEF91uuzhn7RrYNHWETvcFzOwvK6e21=s88-c-k-c0x00ffffff-no-rj)]()
 [![ElKaweer](https://yt3.ggpht.com/ytc/AKedOLQXHr3-Z9hZiWcA7jUS_O4VpGD4l2CTpX9nveyiXw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCvRbdoDaIeiY6umPJg1L0KA)
