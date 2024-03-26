@@ -272,6 +272,7 @@
 <a href="https://www.youtube.com/@Dr.Haitham_Talaat"><img src="https://yt3.googleusercontent.com/hJqgfDLCFb5jLlQ1G2kQzcsyL0ZuYoO2K4swZUNy8HK4XhboY9f56kQxzOtKcp4PtUZoUxw2CA=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Dr. Haitham Talaat"></a>
 <a href="https://www.youtube.com/@al-sabeel"><img src="https://yt3.googleusercontent.com/foGjARl6OsBU2fmP4Ajnz6Q5TkQ5jse3nzf9RLHmLKeh1pF7H89BW0edzU5HtoCF44sFbAYw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="al-sabeel"></a>
 <a href="https://www.youtube.com/@Mantooq_books"><img src="https://yt3.googleusercontent.com/WDx1iMQ9Ismsdr-cZ9j4T3_YrjIedZs7vJfDBgH3DaFZ_nKH7uk5LeD2-glNSgh5zvyH1Xm_mos=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Mantooq_books"></a>
+<a href="https://www.youtube.com/@abdullatif1"><img src="https://yt3.googleusercontent.com/w31QoC5Tv4fKDzyDK5vsn4pgiDzNvoSgAlUqmdjlnXLcB8b7tuxWLB7Bs7-I-H-LSQitWBSxlrc=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Abdullatif"></a>
 <a href="https://www.youtube.com/@eld3wah"><img src="https://yt3.googleusercontent.com/ytc/AIf8zZT80rFk-nPqSYSLmpfyg3riw_I2tD5Zh5jwWChtcw=s176-c-k-c0x00ffffff-no-rj" width=88 alt="eld3wah"></a>
 <a href="https://www.youtube.com/@ahmedmansouraja/videos"><img src="https://yt3.googleusercontent.com/ytc/APkrFKaDb__LsZnn0LImxxyFMvI5wlGfW8h5JLtIeQP5=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Mansour"></a>
 <a href="https://www.youtube.com/@AhmedAdly2/videos"><img src="https://yt3.googleusercontent.com/xVx3Kw2fDijk4AWvJqs8NgZLHl1R8_dR3kgJoVaJFLv1o3-1v7EUgg66fW46b19Hdy-dYZOG4w=s176-c-k-c0x00ffffff-no-rj" width=88 alt="Ahmed Adly"></a>
