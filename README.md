@@ -1,4 +1,4 @@
-<img src="Images/New-Setup.jpg" alt="00xWolf">
+<img src="Images/New-Setup2.jpg" alt="00xWolf">
 
 ```css
 ┌[Mr.o0xwolf@git]-(~)
@@ -53,6 +53,16 @@
 </a> 
 </p>
 
+<!--  My Setup  -->
+
+<h3 align="center"> My Setup </h3>
+
+<p align="center">
+<a href="https://mmsaeed509.github.io/MySetup.html">
+  <img src="Images/New-Setup.jpg" />
+</a>
+<p/>
+ 
 <!--  My LinuxDesktopSetup  -->
 
 <h3 align="center"> Exodia OS </h3>
