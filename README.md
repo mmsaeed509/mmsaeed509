@@ -1,4 +1,4 @@
-<img src="Images/New-Setup2.png" alt="00xWolf">
+<img src="gif/NewRoomSetup2.gif" alt="00xWolf">
 
 ```css
 ┌[Mr.o0xwolf@git]-(~)
@@ -59,7 +59,7 @@
 
 <p align="center">
 <a href="https://mmsaeed509.github.io/MySetup.html">
-  <img src="Images/New-Setup.png" />
+  <img src="gif/NewRoomSetup.gif" />
 </a>
 <p/>
  
