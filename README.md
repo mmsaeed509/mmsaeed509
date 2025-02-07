@@ -1,4 +1,4 @@
-<img src="gif/NewRoomSetup2.gif" alt="00xWolf">
+<img src="Images/NEW-SETUP.jpg" alt="00xWolf">
 
 ```css
 ┌[Mr.o0xwolf@git]-(~)
