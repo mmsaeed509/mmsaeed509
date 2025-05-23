@@ -50,7 +50,28 @@
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Myscripts">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/mmsaeed509/AIMatrix">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=AIMatrix&layout=compact&theme=tokyonight" />
+</a>  
+&emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/mmsaeed509/PredatorSense-Linux">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=PredatorSense-Linux&layout=compact&theme=tokyonight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Exodia-OS/exodia-assistant-app">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-assistant-app&layout=compact&theme=tokyonight" />
 </a> 
+&emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/Exodia-OS/exodia-acer-predator-ISO">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-acer-predator-ISO&layout=compact&theme=tokyonight" />
+</a> 
+
 </p>
 
 <!--  My Setup  -->
