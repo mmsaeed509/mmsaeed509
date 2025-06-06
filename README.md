@@ -202,6 +202,7 @@
 
 ### *Tech & Cyber Security & Network & Linux & Programming Channels*
 
+<a href="https://www.youtube.com/@WaleedKhedr/videos"><img src="https://yt3.googleusercontent.com/8ofYOWtblJg31OhD3p8eXxGlXKQXIXZvr3UWAGpA1BKnH28WFHRfxgaMKo5dIhHr2LJlU-JC=s120-c-k-c0x00ffffff-no-rj" width=88 alt="Waleed Khedr"></a>
 [![Jeff Geerling](https://yt3.ggpht.com/ytc/AKedOLSAzfhmFT-SZJnA7tXBiOMUOAGH871Zzg1ZegS9Tg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/JeffGeerling)
 [![Ashraf Ayad](https://yt3.ggpht.com/LdRSJTE40aIW7h3RRCUtSU3WLgqyB8v28LYJLiBc68QEKOb_VVsH66JaTPBY7PCeaJCjjH9UfvA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCpv2k4bgoPJw1NXPBljDWpw)
 [![David Bombal](https://yt3.ggpht.com/ytc/AKedOLTVmtLFnPv-D9wjVmCdD7bSmVSARDsKBxFeXoh5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/DavidBombal)
