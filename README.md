@@ -288,8 +288,8 @@
 
 ### *FootBall & Entertainment & Economics and Others Channels*
 
-<a href="https://www.youtube.com/@MrSpherical/videos"><img src="https://yt3.googleusercontent.com/RsXd61wby6gK7i_yWf1_dih0vIepQcyKzIvl2F0z5pC2qcbPH-QcS3m2dCS7hes9-7k6uiJrGGU=s160-c-k-c0x00ffffff-no-rj" width=88 alt="Waleed Khedr">MrSpherical</a>
-<a href="https://www.youtube.com/@mrspherical_arabic/videos"><img src="https://yt3.googleusercontent.com/jfQdPZm1Yv1aP5lP88gqctadGs_IJPnUtnWRrgmRbBQvJmBKp0Y4RuwVTx1N0qiRbOKOzKwp=s160-c-k-c0x00ffffff-no-rj" width=88 alt="Waleed Khedr">MrSpherical بالعربي</a>
+<a href="https://www.youtube.com/@MrSpherical/videos"><img src="https://yt3.googleusercontent.com/RsXd61wby6gK7i_yWf1_dih0vIepQcyKzIvl2F0z5pC2qcbPH-QcS3m2dCS7hes9-7k6uiJrGGU=s160-c-k-c0x00ffffff-no-rj" width=88 alt="MrSpherical"></a>
+<a href="https://www.youtube.com/@mrspherical_arabic/videos"><img src="https://yt3.googleusercontent.com/jfQdPZm1Yv1aP5lP88gqctadGs_IJPnUtnWRrgmRbBQvJmBKp0Y4RuwVTx1N0qiRbOKOzKwp=s160-c-k-c0x00ffffff-no-rj" width=88 alt="MrSpherical بالعربي"></a>
 [![Alshakhanah Alshangy](https://yt3.ggpht.com/ytc/AKedOLSPRlknL8LrgAuFmCpqTDQZYXGmSiCuqWRlJNItAg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AlshakhanahAlshangy)
 [![Eqkawkab](https://yt3.ggpht.com/ytc/AKedOLTjvlaBHO_gyhx9dtAajhJrb75u_Y--YtMhfrTTzg=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCjMdgUQQM68S7tdXspE45Ag)
 [![Ahmed El-Beheiry](https://yt3.ggpht.com/ytc/AKedOLQsNi7da9g2qpuKXGzpqOOygUjWrtyILMv9aJo5=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/c/AhmedBehiry)
