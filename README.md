@@ -38,15 +38,15 @@
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=bspwm-dots&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
-<a href="https://github.com/mmsaeed509/Ransomware">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
-</a>  
-
-<br/>
-
 <a href="https://github.com/Exodia-OS/exodia-home-ISO">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-home-ISO&layout=compact&theme=tokyonight" />
-</a>  
+</a>
+ 
+<br/>
+
+<a href="https://github.com/mmsaeed509/AIMatrix">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=AIMatrix&layout=compact&theme=tokyonight" />
+</a>   
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/Myscripts">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Myscripts&layout=compact&theme=tokyonight" />
@@ -54,8 +54,8 @@
 
 <br/>
 
-<a href="https://github.com/mmsaeed509/AIMatrix">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=AIMatrix&layout=compact&theme=tokyonight" />
+<a href="https://github.com/mmsaeed509/Linuwu-Sense">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Linuwu-Sense&layout=compact&theme=tokyonight" />
 </a>  
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/mmsaeed509/PredatorSense-Linux">
@@ -64,37 +64,33 @@
 
 <br/>
 
-<a href="https://github.com/Exodia-OS/exodia-assistant-app">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-assistant-app&layout=compact&theme=tokyonight" />
-</a> 
+<a href="https://github.com/mmsaeed509/Predator-Key">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Predator-Key&layout=compact&theme=tokyonight" />
+</a>
 &emsp;&emsp;&nbsp;&nbsp;
 <a href="https://github.com/Exodia-OS/exodia-acer-predator-ISO">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-acer-predator-ISO&layout=compact&theme=tokyonight" />
+</a>
+
+<br/>
+
+<a href="https://github.com/mmsaeed509/DevOps">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=DevOps&layout=compact&theme=tokyonight" />
+&emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/Exodia-OS/exodia-assistant-app">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=Exodia-OS&repo=exodia-assistant-app&layout=compact&theme=tokyonight" />
 </a> 
+<br/>
+<a href="https://github.com/mmsaeed509/k8s-on-premises">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=k8s-on-premises&layout=compact&theme=tokyonight" />
+</a> 
+&emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/mmsaeed509/Ransomware">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=mmsaeed509&repo=Ransomware&layout=compact&theme=tokyonight" />
+</a> 
+</a>
 
 </p>
-
-<!--  My Setup  -->
-
-<h3 align="center"> My Setup </h3>
-
-<p align="center">
-<a href="https://mmsaeed509.github.io/MySetup.html">
-  <img src="gif/NewRoomSetup.gif" />
-</a>
-<p/>
- 
-<!--  My LinuxDesktopSetup  -->
-
-<h3 align="center"> Exodia OS </h3>
-
-<p align="center">
-<a href="https://youtu.be/4u6y80lHn4M">
-  <img src="gif/github.gif" />
-</a>
-<p/>
-
-<!--  My LinuxDesktopSetup  -->
 
 <!-- Github Stats -->
 
@@ -125,20 +121,6 @@
   
 </p>
 
-<!-- Github Stats -->
-
-<!-- ###########################################  ########################################### -->
-
-<!-- Important Projects -->
-
-
-
-
-<!-- ###########################################  ########################################### -->
-
-
-
-<!-- ###########################################  ########################################### -->
 
 <!-- Skills ( Languages & Tools ) -->
 
@@ -194,9 +176,16 @@
 
 <details>
    <summary><h2> More About Me </h2></summary>
-<!--   <h1 align="center">More About Me  </h1> -->
 
-![](/gif/meSetup.gif)
+### [My Setup](/MySetup/README.md)
+![](/gif/setup.gif)
+
+### My Tools As A Black Theme 🖤
+![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
+
+### My Workflow Set-Up
+
+![](/gif/workflow-setup.gif)
 
 ## My Favorite Youtube Channels : [![YouTube](https://img.icons8.com/color/48/000000/youtube--v1.png)](https://www.youtube.com/)
 </br>
@@ -324,15 +313,6 @@
 [![El Hareef](https://yt3.ggpht.com/ytc/AKedOLSiUZxr8rJ2F8BiE0dm1x1F6RibgZV1lAFx0Sk48Q=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCNbLomUt7UkAUKOxByVKVtA)
 [![Ahmad Tawfik](https://yt3.ggpht.com/ytc/AKedOLRBS5tBVujA93gHIdJHOQVqSLT4uhH1aeR-ugveJw=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCVMeoYAy4w09_pQycgl7z7Q/featured)
 [![Al-Ghafry QQQ](https://yt3.ggpht.com/hfE2Rl8nhT0iMhzdbuoc5OJdpYuzRY-fwoQdIS4d0f7_qUHx1JkJHe-ctd-VWsDva--c8RJr-A=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCeriWoRVWMHXBbo-FNG-0GQ)
-
-## My Tools As A Black Theme 🖤
-
-![Tools As A Black theme](/Images/Black-Theme_Setup.jpg)
-
-
-## [My Setup](/MySetup/README.md)
-
-![](/gif/setup.gif)
  
 </details>
 
