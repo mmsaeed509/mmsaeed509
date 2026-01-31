@@ -14,7 +14,7 @@
  Education: Graduated from *Faculty of Computers and Artificial Intelligence*
  Department: Information Technology (IT)
  University: Cairo University
- Interests: ["DevOps", "DevSecOps", "MLOps", "CyberSecurity", "Linux", "FOSS", "AI-ML"]
+ Interests: ["DevOps", "DevSecOps", "MLOps", "CyberSecurity", "Linux", "AWS", "AI"]
   ```
 
  - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
