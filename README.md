@@ -14,10 +14,10 @@
  Education: Graduated from *Faculty of Computers and Artificial Intelligence*
  Department: Information Technology (IT)
  University: Cairo University
- Interests: {"CyberSecurity", "Linux", " AI", "TUI Apps", "Hardware",
-             "Clouds": ["AWS", "Azure", "Hostinger", "Contabo"],
-             "Shells": ["Bash", "zsh", "NuShell", "PowerShell"],
-             "*Ops": ["DevOps", "DevSecOps", "MLOps", "DataOps"],}
+ Interests: {"Cyber Security", "Linux", "AI", "TUI Apps", "Hardware", "LLMs",
+             "Clouds": ["AWS", "AzureDevOps", "Hostinger", "Contabo", "GCP"],
+             "Shells": ["Bash", "zsh", "NuShell", "PowerShell", "FishShell"],
+             "@ *Ops": ["DevOps", "DevSecOps", "MLOps", "AIOps", "DataOps"],}
   ```
 
  - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
