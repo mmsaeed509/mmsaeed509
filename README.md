@@ -17,7 +17,7 @@
  Interests: {"Cyber Security", "Linux", "AI", "TUI Apps", "Hardware", "LLMs",
              "Clouds": ["AWS", "AzureDevOps", "Hostinger", "Contabo", "GCP"],
              "Shells": ["Bash", "zsh", "NuShell", "PowerShell", "FishShell"],
-             "@ *Ops": ["DevOps", "DevSecOps", "MLOps", "AIOps", "DataOps"],}
+             "@ *Ops": ["DevOps",  "DevSecOps", "MLOps", "AIOps", "DataOps"],}
   ```
 
  - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/mmsaeed509?style=social)](https://github.com/mmsaeed509)
